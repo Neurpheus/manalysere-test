@@ -1,0 +1,7 @@
+﻿Artefakt (łac. ars - sztuka, technika) to struktura tkanki lub komórki, która powstała w procesie przygotowywania danego preparatu, nie istniejąca faktycznie w żywym organizmie (biofakt).
+
+Powstawanie artefaktów wynika z potrzeby przygotowania preparatu przed jego oceną mikroskopową. Standardowo w mikroskopii świetlnej preparaty cyto- i histologiczne traktuje się etanolem (odwadniacz), utrwalaczami i barwnikami w wyniku czego struktury komórkowe/tkankowe ulegają zmianie kształtu, położenia i składu chemicznego. Wpływ procedury na preparat nie zależy tylko od użytych w niej substancji, ale także rodzaju tkanek i ich topografii. Różne tkanki różnie zachowują się traktowane tym samym związkiem chemicznym - i tak, jeśli dana substancja powoduje obkurczanie tkanek zależnie od ich składu, to sąsiadujące ze sobą tkanki będę od siebie oddalały się w wyniku większego obkurczania się jednej z nich. Między nimi powstanie przestrzeń, która może błędnie sugerować istnienie takiej przerwy także w żywym organizmie.
+
+Sytuacja taka miała miejsce w przypadku przestrzeni Grunhagena-Mingazziniego[1] naskórka.
+
+Ocena, czy uzyskany obraz jest zgodny ze stanem naturalnym jest najczęściej niemożliwa. Stąd Franz Nissl[2] wprowadził pojęcie obrazu ekwiwalentnego, to jest takiego który niekoniecznie odpowiada stanowi in vivo, ale zawiera wszystkie charakterystyczne cechy danej struktury.

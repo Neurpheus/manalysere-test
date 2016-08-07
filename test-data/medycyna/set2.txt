@@ -1,0 +1,75 @@
+﻿Błona śluzowa, śluzówka (gr. mucosa) - wyściółka przewodów i jamistych narządów wewnętrznych mających kontakt ze środowiskiem zewnętrznym organizmu kręgowca. Składa się z dwóch zasadniczych warstw: nabłonka i pokrytej przezeń tkanki łącznej zwanej blaszką właściwą zawierającej naczynia krwionośne i limfatyczne, nerwy, często różne receptory, gruczoły czy mięśnie gładkie.
+
+Błony śluzowe mają przede wszystkim funkcje ochronne w narządach, które wprowadzają środowisko zewnętrzne do środka organizmu (układ pokarmowy, układ oddechowy, drogi moczowe, układ rozrodczy), ale także rozliczne, w zależności od umiejscowienia, zadania własne, jak wchłanianie substancji odżywczych w przewodzie pokarmowym.
+
+Funkcje ochronne i obronne śluzówek nie wynikają jedynie z ich fizycznej wytrzymałości, ale zależą także od odporności czynnej. Powszechnym zjawiskiem w śluzówkach jest tkanka limfatyczna, tak rozproszona jak i skupiona w grudkach chłonnych, zwana ogólnie tkanką limfatyczną związaną ze śluzówkami lub angielskim skrótem MALT (mucosa-associated lymphoid tissue). Szczególną cechą tej tkanki jest wytworzenie i podtrzymywanie tak lokalnej odporności, jak i lokalnej tolerancji na antygeny środowiska zewnętrznego występujące na tej śluzówce, ale wymagające zwalczania w innych częściach organizmu.
+
+Choanocyty (komórki kołnierzykowate) - komórki wewnętrznej warstwy ciała gąbek wykazujące duże podobieństwo do wiciowców (Choanoflagellata). Komórki wyposażone są w pojedyncze witki skierowane do spongocelu w typie askon lub do komór w typach sykon i leukon. Komórki te dzięki ruchom witek wymuszają przepływ wody przez spongocel gąbki, jednak nie ma między nimi koordynacji ruchu. Komórki te mają zdolność pinocytozy oraz trawienia pokarmu, który nastęnie jest przekazywany archeocytom, gdzie następuje ostateczne trawienie w wodniczkach trawiennych.
+
+Chondroblasty - komórki chrząstkotwórcze, przekształcone chondrocyty.Tworzą substancję międzykomórkową tkanki chrzęstnej. Zachowują zdolność do rozmnażania.
+
+Chondrocyty - komórki chrzęstne wchodzące w skład tkanki chrzęstnej. Zanurzone są one w istocie międzykomórkowej zwanej chondryną.
+
+Chondroklasty - są to przekształcone chondrocyty, komórki chrząstkogubne, które rozpuszczają chrząstkę.
+
+Chondryna - istota międzykomórkowa, tworząca tkankę chrzęstną. W chondrynie zanurzone są elementy komórkowe (chondrocyty) oraz białkowe włókna.
+
+Chrząstka, tkanka chrzęstna, rodzaj tkanki łącznej szkieletowej, zbudowanej z komórek chrzęstnych - chondrocytów oraz bezpostaciowej substancji międzykomórkowej, składającej się z istoty podstawowej (kwas hialuronowy i proteoglikany) zwanej macierzą (matrix) oraz dużych ilości włókien białkowych: klejodajnych (kolagenowych) i elastycznych.
+
+Tkanka chrzęstna razem z tkanką kostną stanowią tkanki podporowe. W porównaniu do kości substancja międzykomórkowa chrząstki jest słabiej zmineralizowana i nie zawiera naczyń limfatycznych oraz naczyń krwionośnych, wskutek czego odżywianie chondrocytów zachodzi wyłącznie drogą dyfuzji. Tkanka chrzęstna nie jest unerwiona.
+
+Pokryta jest (oczywiście poza pow. stawowymi) dobrze unaczynioną tkanką łączną włóknistą zwartą - ochrzęstną. Odżywianie następuje na drodze dyfuzji z naczyń ochrzęstnej lub płynu stawowego. Chrząstka należy do tkanek o bardzo niskim metabolizmie.
+
+Chrząstka jest tkanką delikatną, podatną na odkształcenia i szybko rosnącą, dzięki czemu doskonale spełnia funkcje szkieletu u zarodków i młodych kręgowców. W ewolucji po raz pierwszy pojawiła się u głowonogów, tworząc osłonę zwojów mózgowych i szkielet przyssawek. U kręgowców, z wyjątkiem kręgoustych i ryb spodoustych, u których stanowi jedyny składnik szkieletu, zostaje w trakcie rozwoju osobniczego zastępowana przez kość. W zależności od rodzaju i proporcji poszczególnych składników substancji międzykomórkowej wyróżnia się: chrząstkę szklistą (niewiele włókien, dużo chondromukoidu, głównie kolagen typu II), włóknistą (liczne włókna kolagenowe, głównie kolagen typu I) i sprężystą (zawiera głównie włókna elastyczne w postaci gęstej siatki), o różnych właściwościach fizycznych i funkcjach w organizmie. Wzrost chrząstki apozycyjny i śródmiąższowy, natomiast zdolność do regeneracji pełna jedynie w dzieciństwie.
+
+W organizmie dorosłego człowieka z tkanki chrzęstnej szklistej zbudowane są: powierzchnie stawowe, większość chrząstek krtani, chrzęstne pierścienie tchawicy i oskrzeli oraz części chrzęstne żeber i przegroda nosa. Z tkanki chrzęstnej włóknistej: krążki międzykręgowe, element spojenia łonowego, łąkotki i przyczepy więzadeł i ścięgien do kości. Natomiast z tkanki chrzęstej sprężystej zbudowane są: małżowina uszna, przewód słuchowy zewnętrzny, trąbka słuchowa, nagłośnia oraz małej chrząstki krtani.
+
+Chłonka inaczej limfa - płyn tkankowy, który spływa do naczyń chłonnych, tworzących układ naczyń limfatycznych.
+
+Chłonka rozprowadza po organizmie limfocyty zabierane z węzłów chłonnych. Bierze także udział w transporcie tłuszczów pokarmowych, stąd jej lekko żółtawe zabarwienie. Ta część limfy rozpoczyna bieg od jelita cienkiego. Odgrywa istotną rolę w mechanizmach obronnych organizmu, gdy dochodzi do zakażenia, ponieważ bakterie, a nawet komórki nowotworowe, zanim dostaną się z tkanek do krwi, zostają zatrzymane w węzłach chłonnych.
+
+
+Cytoarchitektonika
+ 
+Ilustracja z pracy Graftona Elliota Smitha z 1907 roku.
+ 
+Mapa cytoarchitektoniki ludzkiego mózgu zamieszczona w pracy Constantina von Economo z 1929 roku.
+
+Cytoarchitektonika (ang. cytoarchitectonics, z gr. ????? = komórka + ????????????? = architektura) to nauka zajmująca się organizacją komórek organizmu. Odnosi się przede wszystkim do budowy ośrodkowego układu nerwowego: mózgowia i rdzenia kręgowego. Komplementarna dziedzina badań nad układem włókien nerwowych to mieloarchitektonika (ang. myeloarchitectonics, z gr. µ????? = szpik + ?????????????).
+
+Pierwsze badania cytoarchitektoniczne ludzkiej kory mózgowej prowadził wiedeński psychiatra Theodor Meynert (1833-1892). W 1867 roku opisał różnice histologiczne pomiędzy budową istoty szarej półkul mózgu w zależności od okolicy[1]. Kolejnymi, którzy odkrywali te różnice byli Alfred Walter Campbell (1868-1937), który przedstawił podział kory mózgu na 14 obszarów[2], działający w Kairze australijski neurolog Sir Grafton Elliot Smith (1871-1937), autor podziału na 50 pól[3], niemiecki neurolog Korbinian Brodmann (1868-1918) z Berlina, który badając człowieka i naczelne wyróżnił 52 pola (z czego 44 u ludzi, a pozostałe 8 u naczelnych)[4], oraz neurolodzy Constantin von Economo (1876-1931) i Georg N. Koskinas (1885-1975), którzy wyszczególnili 107 pól
+
+
+
+Dendryt - element neuronu, rozgałęziona (zazwyczaj) struktura, przenosząca sygnały otrzymywane z innych neuronów przez synapsy do ciała komórki, której jest częścią. Występuje w tkance nerwowej.
+
+Funkcje dendrytów:
+przejmują informacje z receptorów (zgodnie z kierunkiem ) od receptorów do ciała komórki.
+
+Akson (neuryt) przekazuje informacje dalej, w kierunku: od ciała komórki do narządu wykonawczego bądź zakończenia synaptycznego.
+
+
+Eozyna - czerwony barwnik o charakterze kwasowym służący do wybarwiania zasadowych (acidofilnych, czyli lubiących kwasy) cząstek struktur komórek, takich jak:
+cytoplazma,
+włókna kolagenowe,
+większość ziaren wydzielniczych w komórkach.
+
+Eozyna barwi te struktury na kolor czerwony. Zazwyczaj stosowana jest w połączeniu z hematoksyliną, barwiącą struktury kwasowe, czyli zasadochłonne (np. jądra, siateczkę śródplazmatyczną szorstką) na kolor niebieski. Barwnik będący połączeniem hematoksyliny i eozyny (tzw. H+E) należy do najczęściej stosowanych w histologii.
+
+Znane są dwa rodzaje związków określanych nazwą eozyna: eozyna Y i eozyna B. Najczęściej używaną jest eozyna Y, która ma lekko żółtawy odcień. Eozyna B natomiast jest związkiem o lekko niebieskim odcieniu. Różnice w barwieniach tymi związkami są nieznaczne i oba rodzaje mogą być stosowane do tego samego rodzaju barwień.
+
+Podobnie, jak inne barwniki z grupy ftalein, eozyna zawiera w jednej ze swych form dodatkowy pierścień laktonowy.
+
+
+Fibroblast to komórka występująca u zwierząt, wywodząca się z mezodermy, wydzielająca włókna i matrix tkanki łącznej. Posiada zwykle rozgałęzioną cytoplazmę, otaczającą eliptyczne jądro komórkowe. Aktywne fibroblasty mogą być rozpoznane dzięki szorstkiemu retikulum komórkowemu. Nieaktywne fibroblasty, zwane także fibrocytami, są mniejsze i wrzecionowate, ze zredukowanym retikulum.
+
+Fibroblasty produkują:
+kolagen
+glikozoaminy
+elastynę
+glikoproteiny
+
+Fibryle czyli włókienka - występują w komórkach mięśniowych i nerwowych. W komórkach mięśniowych tworzą układy w postaci włókien kurczliwych tzw. miofibryle. Natomiast w układzie nerwowym tworzą włókna przewodzące tzw. neurofibryle.
+
+
+

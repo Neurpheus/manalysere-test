@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+
+<TEI.2 id="stylB">
+
+<!-- File included by pl196x.xml. -->
+
+<teiHeader type="text" status="update" creator="Maciej Ogrodniczuk" date.created="2000-09-20" date.updated="2004-06-16">
+   <fileDesc>
+      <titleStmt>
+         <title lang="en">Polish language of the 1960s. Electronic version of style B: news.</title>
+         <title lang="pl">Polszczyzna lat sześćdziesiątych. Wersja elektroniczna stylu B: drobne wiadomości prasowe</title>
+         <respStmt>
+            <resp lang="pl">Twórcy korpusu na potrzeby Słownika Frekwencyjnego Polszczyzny Współczesnej</resp>
+            <resp lang="en">Creators of the corpus for Frequency Dictionary of Contemporary Polish</resp>
+            <name>Ida Kurcz</name>
+            <name>Jadwiga Sambor</name>
+            <name>Andrzej Lewicki</name>
+            <name>Jerzy Woronczak</name>
+            <name>Krzysztof Szafran</name>
+         </respStmt>
+      </titleStmt>
+
+      <publicationStmt>
+         <distributor lang="pl">Katedra Lingwistyki Formalnej, Uniwersytet Warszawski</distributor>
+         <distributor lang="en">Chair of Formal Linguistics, Warsaw University</distributor>
+         <address>
+            <addrLine>ul. Browarna 8/10, 00-311 Warszawa</addrLine>
+         </address>
+         <availability lang="pl" status="free">
+           <p>Udostępnione na zasadach Ogólnej Licencji Publicznej GNU przez twórców korpusu.</p>
+         </availability>
+         <availability lang="en" status="free">
+           <p>Released on GNU General Public License by the corpus creators.</p>
+         </availability>
+         <date value="2004">2004</date>
+      </publicationStmt>
+
+      <sourceDesc lang="pl">
+         <p>Plik zawiera próbki zebrane z wielu źródeł;
+            każda z nich posiada swój własny opis źródła.</p>
+      </sourceDesc>
+
+      <sourceDesc lang="en">
+         <p>Text sampled from multiple sources. Each of 2000 samples
+            contains its own source description.</p>
+      </sourceDesc>
+   </fileDesc>
+
+   <encodingDesc>
+      <fsdDecl type="opisy morfologiczne" fsd="fsd.morf"/>
+   </encodingDesc>
+
+   <profileDesc>
+      <langUsage>
+         <language lang="pl">Polish</language>
+      </langUsage>
+      <textDesc>
+         <channel mode="w"></channel>
+         <constitution type="frags"></constitution>
+         <derivation type="original"></derivation>
+         <domain type="public"></domain>
+         <factuality type="fact">news</factuality>
+         <interaction type="inapplicable"></interaction>
+         <preparedness type="revised"></preparedness>
+         <purpose type="inform" degree="unknown"></purpose>
+      </textDesc>
+    </profileDesc>
+</teiHeader>
+
+<text lang="pl">
+  <group>
+     <text id="wp0001">
+        <front>
+           <head>
+              <bibl>
+                 <title>Dziennik Bałtycki</title>
+                 <date>05.01.1963</date>
+                 <biblScope>str. 5, kol. 1</biblScope>
+              </bibl>
+           </head>
+        </front>
+        <body>
+           <p>
+              <s>
+                 <w id="wp000101" lemma="wychodzić" ana="V----W--N----P">Wychodząc</w>
+                 <w id="wp000102" lemma="z" ana="P-G----------P">z</w>
+                 <w id="wp000103" lemma="założenie" ana="SSGN---------P">założenia</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000104" lemma="że" ana="D------------P">że</w>
+                 <w id="wp000105" lemma="różny" ana="APNOP--------P APNRP--------P">różne</w>
+                 <w id="wp000106" lemma="być" ana="VP---3TON----P">są</w>
+                 <w id="wp000107" lemma="właściwość" ana="SPNF---------P">właściwości</w>
+                 <w id="wp000108" lemma="i" ana="C------------P">i</w>
+                 <w id="wp000109" lemma="różny" ana="APNOP--------P APNRP--------P">różne</w>
+                 <w id="wp000110" lemma="możliwość" ana="SPNF---------P">możliwości</w>
+                 <w id="wp000111" lemma="zakład" ana="SPGI---------P">zakładów</w>
+                 <w id="wp000112" lemma="praca" ana="SSGF---------P">pracy</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000113" lemma="organizator" ana="SPNP---------P SPVP---------P">organizatorzy</w>
+                 <w id="wp000114" lemma="konkurs" ana="SSGI---------P">konkursu</w>
+                 <w id="wp000115" lemma="przedstawić" ana="VP-O-3POD----P">przedstawili</w>
+                 <w id="wp000116" lemma="do" ana="P-G----------P">do</w>
+                 <w id="wp000117" lemma="wybór" ana="SSGI---------P">wyboru</w>
+                 <w id="wp000118" lemma="szereg" ana="SSAI---------P">szereg</w>
+                 <w id="wp000119" lemma="propozycja" ana="SPGF---------P">propozycji</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000120" lemma="ujęty" ana="APGXX--------P">ujętych</w>
+                 <w id="wp000121" lemma="w" ana="P-A----------P">w</w>
+                 <w id="wp000122" lemma="trzy" ana="NPAX---------P">trzy</w>
+                 <w id="wp000123" lemma="podstawowy" ana="APARP--------P">podstawowe</w>
+                 <w id="wp000124" lemma="grupa" ana="SPAF---------P">grupy</w>
+                 <c type="dwukropek">:</c>
+                 <w id="wp000125" lemma="pomoc" ana="SSNF---------P">pomoc</w>
+                 <w id="wp000126" lemma="szkoła" ana="SSDF---------P">szkole</w>
+                 <w id="wp000127" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000128" lemma="realizacja" ana="SSLF---------P">realizacji</w>
+                 <w id="wp000129" lemma="kształcenie" ana="SSGN---------P">kształcenia</w>
+                 <w id="wp000130" lemma="politechniczny" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">politechnicznego</w>
+                 <w id="wp000131" lemma="młodzież" ana="SSGF---------P">młodzieży</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000132" lemma="pomoc" ana="SSNF---------P">pomoc</w>
+                 <w id="wp000133" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000134" lemma="osiąganie" ana="SSLN---------P">osiąganiu</w>
+                 <w id="wp000135" lemma="jak najlepszy" ana="APGXX--------P">jak najlepszych</w>
+                 <w id="wp000136" lemma="wynik" ana="SPGI---------P">wyników</w>
+                 <w id="wp000137" lemma="nauczanie" ana="SSGN---------P">nauczania</w>
+                 <w id="wp000138" lemma="i" ana="C------------P">i</w>
+                 <w id="wp000139" lemma="świadczenie" ana="SPNN---------P">świadczenia</w>
+                 <w id="wp000140" lemma="szkoła" ana="SSGF---------P">szkoły</w>
+                 <w id="wp000141" lemma="na" ana="P-A----------P">na</w>
+                 <w id="wp000142" lemma="rzecz" ana="SSAF---------P">rzecz</w>
+                 <w id="wp000143" lemma="zakład" ana="SSGI---------P SSVI---------P">zakładu</w>
+                 <w id="wp000144" lemma="praca" ana="SSGF---------P">pracy</w>
+                 <c type="kropka">.</c>
+              </s>
+           </p>
+        </body>
+     </text>
+
+     <text id="wp0002">
+        <front>
+           <head>
+              <bibl>
+                 <title>Dziennik Bałtycki</title>
+                 <date>05.01.1963</date>
+                 <biblScope>str. 6, kol. 2</biblScope>
+              </bibl>
+           </head>
+        </front>
+        <body>
+           <p>
+              <s>
+                 <w id="wp000201" lemma="portmonetka" ana="SSAF---------P">Portmonetkę</w>
+                 <w id="wp000202" lemma="z" ana="P-I----------P">z</w>
+                 <w id="wp000203" lemma="pieniądz" ana="SPII---------P">pieniędzmi</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000204" lemma="klucz" ana="SPII---------P">kluczami</w>
+                 <w id="wp000205" lemma="i" ana="C------------P">i</w>
+                 <w id="wp000206" lemma="świadectwo" ana="SSIN---------P">świadectwem</w>
+                 <w id="wp000207" lemma="szczepienie" ana="SSGN---------P">szczepienia</w>
+                 <w id="wp000208" lemma="na" ana="P-A----------P">na</w>
+                 <w id="wp000209" lemma="nazwisko" ana="SSAN---------P">nazwisko</w>
+                 <w id="wp000210" lemma="władysław" ana="SSGP---------W">Władysława</w>
+                 <w id="wp000211" lemma="błoński" ana="SSGP---------W">Błońskiego</w>
+                 <w id="wp000212" lemma="ząaleźć" ana="XXXXXXXXXXXXXP">znalazł</w>
+                 <w id="wp000213" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000214" lemma="dzień" ana="SSLI---------P">dniu</w>
+                 <w id="wp000215" lemma="trzeci" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">trzeciego</w>
+                 <w id="wp000216" lemma="bieżący" ana="ASGXX--------P">bieżącego</w>
+                 <w id="wp000217" lemma="miesiąc" ana="SSGI---------P">miesiąca</w>
+                 <w id="wp000218" lemma="pan" ana="SSVP---------P">pan</w>
+                 <w id="wp000219" lemma="antoni" ana="SSNP---------W SSVP---------W">Antoni</w>
+                 <w id="wp000220" lemma="krych" ana="SSNX---------W">Krych</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000221" lemma="gdańsk-suchonino" ana="SSNI---------W">Gdańsk-Suchonino</w>
+                 <w id="wp000222" lemma="ulica" ana="SSNF---------P">ulica</w>
+                 <w id="wp000223" lemma="otwarty" ana="ASNFP--------W">Otwarta</w>
+                 <w id="wp000224" lemma="trzydzieści" ana="NPNR---------P NPAR---------P">trzydzieści</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000225" lemma="mieszkanie" ana="SSGN---------P">mieszkania</w>
+                 <w id="wp000226" lemma="dwa" ana="NPNX---------P">dwa</w>
+                 <c type="kropka">.</c>
+              </s>
+              <s>
+                 <w id="wp000227" lemma="bilet" ana="SSAI---------P">Bilet</w>
+                 <w id="wp000228" lemma="miesięczny" ana="ASAIP--------P">miesięczny</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000229" lemma="kolejowy" ana="ASAIP--------P">kolejowy</w>
+                 <w id="wp000230" lemma="na" ana="P-A----------P">na</w>
+                 <w id="wp000231" lemma="trasa" ana="SSAF---------P">trasę</w>
+                 <w id="wp000232" lemma="" ana="XXXXXXXXXXXXXW">Gdańsk-Gdynia</w>
+                 <w id="wp000233" lemma="znaleziony" ana="ASAIP--------P">znaleziony</w>
+                 <w id="wp000234" lemma="drugi" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">drugiego</w>
+                 <w id="wp000235" lemma="bieżący" ana="ASGXX--------P">bieżącego</w>
+                 <w id="wp000236" lemma="miesiąc" ana="SSGI---------P">miesiąca</w>
+                 <w id="wp000237" lemma="na" ana="P-L----------P">na</w>
+                 <w id="wp000238" lemma="ulica" ana="SSLF---------P">ulicy</w>
+                 <w id="wp000239" lemma="śląski" ana="ASLFP--------W">Śląskiej</w>
+                 <w id="wp000240" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000241" lemma="gdynia" ana="SSLF---------W">Gdyni</w>
+                 <w id="wp000242" lemma="odebrać" ana="V----I--D----P">odebrać</w>
+                 <w id="wp000243" lemma="można" ana="VX-X-X-PXX--WP">można</w>
+                 <w id="wp000244" lemma="u" ana="P-G----------P">u</w>
+                 <w id="wp000245" lemma="pan" ana="SSGP---------P">pana</w>
+                 <w id="wp000246" lemma="torzyński" ana="SSGP---------W">Torzyńskiego</w>
+                 <c type="myślnik">-</c>
+                 <w id="wp000247" lemma="ulica" ana="SSNF---------P">ulica</w>
+                 <w id="wp000248" lemma="śląski" ana="ASNFP--------W">Śląska</w>
+                 <w id="wp000249" lemma="czterdzieści" ana="NPNR---------P NPAR---------P">czterdzieści</w>
+                 <w id="wp000250" lemma="dwa" ana="NPNX---------P">dwa</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000251" lemma="mieszkanie" ana="SSGN---------P">mieszkania</w>
+                 <w id="wp000252" lemma="piętnaście" ana="NPNR---------P NPAR---------P">piętnaście</w>
+                 <c type="kropka">.</c>
+              </s>
+           </p>
+        </body>
+     </text>
+
+     <text id="wp0003">
+        <front>
+           <head>
+              <bibl>
+                 <title>Dziennik Bałtycki</title>
+                 <date>05.01.1963</date>
+                 <biblScope>str. 2, kol. 4</biblScope>
+              </bibl>
+           </head>
+        </front>
+        <body>
+           <p>
+              <s>
+                 <w id="wp000301" lemma="gwałtowny" ana="ASNFP--------P">Gwałtowna</w>
+                 <w id="wp000302" lemma="odwilż" ana="SSNF---------P">odwilż</w>
+                 <w id="wp000303" lemma="spowodować" ana="VS-F-3POD----P">spowodowała</w>
+                 <w id="wp000304" lemma="groźba" ana="SSAF---------P">groźbę</w>
+                 <w id="wp000305" lemma="niebezpieczny" ana="APGOP--------P APGRP--------P">niebezpiecznych</w>
+                 <w id="wp000306" lemma="lawina" ana="SPGF---------P">lawin</w>
+                 <w id="wp000307" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000308" lemma="zachodni" ana="ASLFP--------P">zachodniej</w>
+                 <w id="wp000309" lemma="austria" ana="SSLF---------W">Austrii</w>
+                 <c type="kropka">.</c>
+              </s>
+              <s>
+                 <w id="wp000310" lemma="w" ana="P-L----------P">W</w>
+                 <w id="wp000311" lemma="południóy" ana="APLXX--------P">południowych</w>
+                 <w id="wp000312" lemma="alpy" ana="SPLT---------W">Alpach</w>
+                 <w id="wp000313" lemma="padać" ana="VS-M-3PON----P">padał</w>
+                 <w id="wp000314" lemma="śnieg" ana="SSNI---------P">śnieg</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000315" lemma="ale" ana="C------------P">ale</w>
+                 <w id="wp000316" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000317" lemma="rzym" ana="SSLI---------W">Rzymie</w>
+                 <w id="wp000318" lemma="oraz" ana="C------------P">oraz</w>
+                 <w id="wp000319" lemma="na" ana="P-L----------P">na</w>
+                 <w id="wp000320" lemma="południe" ana="SSDN---------P SSLN---------P">południu</w>
+                 <w id="wp000321" lemma="włochy" ana="SPGT---------W">Włoch</w>
+                 <w id="wp000322" lemma="panować" ana="VS-F-3PON----P">panowała</w>
+                 <w id="wp000323" lemma="ładny" ana="ASNFP--------P">ładna</w>
+                 <w id="wp000324" lemma="pogoda" ana="SSNF---------P">pogoda</w>
+                 <c type="kropka">.</c>
+              </s>
+              <s>
+                 <w id="wp000325" lemma="natomiast" ana="C------------P">Natomiast</w>
+                 <w id="wp000326" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000327" lemma="europa" ana="SSLF---------W">Europie</w>
+                 <w id="wp000328" lemma="zachodni" ana="ASLFP--------P">zachodniej</w>
+                 <w id="wp000329" lemma="utrzymywać się" ana="VS-F-3PONZ---P">utrzymywała</w>
+                 <w id="wp000330" lemma="się" ana="Z-N----------P Z-G-------N--P Z-A-------N--P">się</w>
+                 <w id="wp000331" lemma="typowo" ana="D---P--------P">typowo</w>
+                 <w id="wp000332" lemma="zimowy" ana="ASNFP--------P">zimowa</w>
+                 <w id="wp000333" lemma="aura" ana="SSNF---------P">aura</w>
+                 <c type="myślnik">-</c>
+                 <w id="wp000334" lemma="mróz" ana="SSNI---------P">mróz</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000335" lemma="śnieg" ana="SSNI---------P">śnieg</w>
+                 <w id="wp000336" lemma="i" ana="C------------P">i</w>
+                 <w id="wp000337" lemma="mgła" ana="SSNF---------P">mgła</w>
+                 <c type="kropka">.</c>
+              </s>
+              <s>
+                 <w id="wp000338" lemma="w" ana="P-A----------P P-L----------P">W</w>
+                 <w id="wp000339" lemma="okolica" ana="SPLF---------P">okolicach</w>
+                 <w id="wp000340" lemma="calais" ana="XXXXXXXXXXXXXW">Calais</w>
+                 <w id="wp000341" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000342" lemma="północny" ana="ASLFP--------P">północnej</w>
+                 <w id="wp000343" lemma="francja" ana="SSLF---------W">Francji</w>
+                 <w id="wp000344" lemma="pług" ana="SPNI---------P">pługi</w>
+                 <w id="wp000345" lemma="śnieżny" ana="APNOP--------P APNRP--------P">śnieżne</w>
+                 <w id="wp000346" lemma="przebijać" ana="VP-R-3PON----P">przebijały</w>
+                 <w id="wp000347" lemma="droga" ana="SSAF---------P">drogę</w>
+                 <w id="wp000348" lemma="do" ana="P-G----------P">do</w>
+                 <w id="wp000349" lemma="odcięty" ana="APGOP--------P APGRP--------P">odciętych</w>
+                 <w id="wp000350" lemma="przez" ana="P-A----------P">przez</w>
+                 <w id="wp000351" lemma="tydzień" ana="SSAI---------P">tydzień</w>
+                 <w id="wp000352" lemma="od" ana="P-G----------P">od</w>
+                 <w id="wp000353" lemma="świat" ana="SPNI---------P SPAI---------P SPVI---------P SSGI---------P">świata</w>
+                 <w id="wp000354" lemma="wioska" ana="SPGF---------P">wiosek</w>
+                 <c type="kropka">.</c>
+              </s>
+           </p>
+        </body>
+     </text>
+
+     <text id="wp0004">
+        <front>
+           <head>
+              <bibl>
+                 <title>Dziennik Bałtycki</title>
+                 <date>05.01.1963</date>
+                 <biblScope>str. 2, kol. 6</biblScope>
+              </bibl>
+           </head>
+        </front>
+        <body>
+           <p>
+              <s>
+                 <w id="wp000401" lemma="autor" ana="SSNP---------P">Autor</w>
+                 <w id="wp000402" lemma="pisać" ana="VS---3TON----P">pisze</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000403" lemma="że" ana="D------------P">że</w>
+                 <c type="cudzysłówOtwierający">"</c>
+                 <w id="wp000404" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000405" lemma="zakrojony" ana="ASLPP--------P ASLAP--------P ASLIP--------P ASLNP--------P">zakrojonym</w>
+                 <w id="wp000406" lemma="na" ana="P-A----------P">na</w>
+                 <w id="wp000407" lemma="szeroki" ana="ASAFP--------P">szeroką</w>
+                 <w id="wp000408" lemma="skala" ana="SSAF---------P">skalę</w>
+                 <w id="wp000409" lemma="program" ana="SSLI---------P">programie</w>
+                 <w id="wp000410" lemma="usa" ana="XXXXXXXXXXXXXS">USA</w>
+                 <w id="wp000411" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000412" lemma="dziedzina" ana="SSLF---------P">dziedzinie</w>
+                 <w id="wp000413" lemma="wykorzystanie" ana="SSGN---------P">wykorzystania</w>
+                 <w id="wp000414" lemma="kosmos" ana="SSGI---------P">Kosmosu</w>
+                 <w id="wp000415" lemma="do" ana="P-G----------P">do</w>
+                 <w id="wp000416" lemma="cel" ana="SPGI---------P">celów</w>
+                 <w id="wp000417" lemma="wojskowy" ana="APGOP--------P APGRP--------P">wojskowych</w>
+                 <w id="wp000418" lemma="coraz" ana="D------------P">coraz</w>
+                 <w id="wp000419" lemma="większy" ana="ASANP--------P ASANC--------P">większe</w>
+                 <w id="wp000420" lemma="znaczenie" ana="SSAN---------P">znaczenie</w>
+                 <w id="wp000421" lemma="przywiązywać" ana="VS---3TON----P">przywiązuje</w>
+                 <w id="wp000422" lemma="się" ana="Z-N----------P">się</w>
+                 <w id="wp000423" lemma="do" ana="P-G----------P">do</w>
+                 <w id="wp000424" lemma="księżyc" ana="SSGP---------P SSAP---------P">Księżyca</w>
+                 <c type="cudzysłówZamykający">"</c>
+                 <c type="kropka">.</c>
+              </s>
+              <s>
+                 <w id="wp000425" lemma="przedstawiciel" ana="SPNP---------P SPVP---------P">Przedstawiciele</w>
+                 <w id="wp000426" lemma="koło" ana="SPGN---------P">kół</w>
+                 <w id="wp000427" lemma="polityczny" ana="APGOP--------P APGRP--------P">politycznych</w>
+                 <w id="wp000428" lemma="i" ana="C------------P">i</w>
+                 <w id="wp000429" lemma="wojskowy" ana="APGOP--------P APGRP--------P">wojskowych</w>
+                 <w id="wp000430" lemma="usa" ana="XXXXXXXXXXXXXS">USA</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000431" lemma="a" ana="C------------P I------------P T------------P">a</w>
+                 <w id="wp000432" lemma="zwłaszcza" ana="SSNF---------P">zwłaszcza</w>
+                 <w id="wp000433" lemma="przedstawiciel" ana="SPNP---------P SPVP---------P">przedstawiciele</w>
+                 <w id="wp000434" lemma="pentagon" ana="SSGI---------W">Pentagonu</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000435" lemma="wypowiadać się" ana="VP---3TONZ---P">wypowiadają</w>
+                 <w id="wp000436" lemma="się" ana="Z-N----------P Z-G-------N--P Z-A-------N--P">się</w>
+                 <w id="wp000437" lemma="na" ana="P-L----------P">na</w>
+                 <w id="wp000438" lemma="łam" ana="SPLI---------P">łamach</w>
+                 <w id="wp000439" lemma="prasa" ana="SSGF---------P">prasy</w>
+                 <w id="wp000440" lemma="za" ana="P-I----------P">za</w>
+                 <w id="wp000441" lemma="jak najszybszy" ana="ASIXX--------P">jak najszybszym</w>
+                 <w id="wp000442" lemma="wykorzystanie" ana="SSIN---------P">wykorzystaniem</w>
+                 <w id="wp000443" lemma="naturalny" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">naturalnego</w>
+                 <w id="wp000444" lemma="satelita" ana="SSGP---------P">satelity</w>
+                 <w id="wp000445" lemma="nasz" ana="ASGFP--------P">naszej</w>
+                 <w id="wp000446" lemma="planeta" ana="SSGF---------P">planety</w>
+                 <w id="wp000447" lemma="do" ana="P-G----------P">do</w>
+                 <w id="wp000448" lemma="globalny" ana="ASGFP--------P">globalnej</w>
+                 <w id="wp000449" lemma="łączność" ana="SSGF---------P">łączności</w>
+                 <c type="przecinek">,</c>
+              </s>
+           </p>
+        </body>
+     </text>
+
+     <text id="wp0005">
+        <front>
+           <head>
+              <bibl>
+                 <title>Dziennik Bałtycki</title>
+                 <date>05.01.1963</date>
+                 <biblScope>str. 6, kol. 3</biblScope>
+              </bibl>
+           </head>
+        </front>
+        <body>
+           <p>
+              <s>
+                 <w id="wp000501" lemma="otóż" ana="T------------P">Otóż</w>
+                 <w id="wp000502" lemma="jeszcze" ana="T------------P">jeszcze</w>
+                 <w id="wp000503" lemma="przed" ana="P-I----------P">przed</w>
+                 <w id="wp000504" lemma="kilka" ana="NPIO---------P NPIR---------P">kilku</w>
+                 <w id="wp000505" lemma="lata" ana="SPIX---------P">laty</w>
+                 <w id="wp000506" lemma="bandera" ana="SSNF---------P">bandera</w>
+                 <w id="wp000507" lemma="polski" ana="ASNFP--------P">polska</w>
+                 <w id="wp000508" lemma="zajmować się" ana="VS-F-3PON----P">zajmowała</w>
+                 <w id="wp000509" lemma="dziewiąty" ana="ASANP--------P">dziewiąte</w>
+                 <w id="wp000510" lemma="miejsce" ana="SSAN---------P">miejsce</w>
+                 <w id="wp000511" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000512" lemma="obrót" ana="SPLI---------P">obrotach</w>
+                 <w id="wp000513" lemma="szczecina" ana="SSNF---------W">Szczecina</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000514" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000515" lemma="rok" ana="SSLI---------P">roku</w>
+                 <w id="wp000516" lemma="bieżący" ana="ASLXX--------P">bieżącym</w>
+                 <w id="wp000517" lemma="zaś" ana="C------------P">zaś</w>
+                 <w id="wp000518" lemma="zajmować się" ana="VS---3TON----P">zajmuje</w>
+                 <w id="wp000519" lemma="pierwszy" ana="ASANP--------P ASANC--------P">pierwsze</w>
+                 <w id="wp000520" lemma="miejsce" ana="SSAN---------P">miejsce</w>
+                 <w id="wp000521" lemma="wespół" ana="D------------P">wespół</w>
+                 <w id="wp000522" lemma="z" ana="P-I----------P">z</w>
+                 <w id="wp000523" lemma="bandera" ana="SSIF---------P">banderą</w>
+                 <w id="wp000524" lemma="nrf" ana="XXXXXXXXXXXXXS">NRF</w>
+                 <w id="wp000525" lemma="pod" ana="P-I----------P">pod</w>
+                 <w id="wp000526" lemma="względem" ana="P-G----------P">względem</w>
+                 <w id="wp000527" lemma="liczba" ana="SSGF---------P">liczby</w>
+                 <w id="wp000528" lemma="zawinięcie" ana="SPGN---------P">zawinięć</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000529" lemma="zaś" ana="C------------P">zaś</w>
+                 <w id="wp000530" lemma="pod" ana="P-I----------P">pod</w>
+                 <w id="wp000531" lemma="względem" ana="P-G----------P">względem</w>
+                 <w id="wp000532" lemma="tonaż" ana="SSGI---------P">tonażu</w>
+                 <w id="wp000533" lemma="zawijający" ana="APGXX--------P">zawijających</w>
+                 <w id="wp000534" lemma="statek" ana="SPGI---------P">statków</w>
+                 <w id="wp000535" lemma="zdecydowany" ana="ASNFP--------P ASNFP--------P">zdecydowana</w>
+                 <w id="wp000536" lemma="przodować" ana="VS---3TON----P">przoduje</w>
+                 <c type="kropka">.</c>
+              </s>
+              <s>
+                 <w id="wp000537" lemma="wzrost" ana="SSAI---------P">Wzrost</w>
+                 <w id="wp000538" lemma="udział" ana="SSGI---------P">udziału</w>
+                 <w id="wp000539" lemma="statek" ana="SPGI---------P">statków</w>
+                 <w id="wp000540" lemma="polski" ana="APGOP--------P APGRP--------P">polskich</w>
+                 <w id="wp000541" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000542" lemma="obrót" ana="SPLI---------P">obrotach</w>
+                 <w id="wp000543" lemma="szczecina" ana="SSNF---------W">Szczecina</w>
+                 <w id="wp000544" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000545" lemma="ciąg" ana="SSLI---------P">ciągu</w>
+                 <w id="wp000546" lemma="ostatni" ana="APGOP--------P APGRP--------P">ostatnich</w>
+                 <w id="wp000547" lemma="lata" ana="SPGX---------P">lat</w>
+                 <w id="wp000548" lemma="obrazować" ana="VP---3TON----P">obrazują</w>
+                 <w id="wp000549" lemma="następujący" ana="APNOP--------P APNRP--------P">następujące</w>
+                 <w id="wp000550" lemma="liczba" ana="SPNF---------P">liczby</w>
+                 <c type="kropka">.</c>
+              </s>
+           </p>
+        </body>
+     </text>
+
+     <text id="wp0006">
+        <front>
+           <head>
+              <bibl>
+                 <title>Dziennik Bałtycki</title>
+                 <date>25.01.1963</date>
+                 <biblScope>str. 1, kol. 6 </biblScope>
+              </bibl>
+           </head>
+        </front>
+        <body>
+           <p>
+              <s>
+                 <w id="wp000601" lemma="kuratorium" ana="SSNN---------P">Kuratorium</w>
+                 <w id="wp000602" lemma="okręg" ana="SSGI---------P">Okręgu</w>
+                 <w id="wp000603" lemma="szkolny" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">Szkolnego</w>
+                 <w id="wp000604" lemma="gdański" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">Gdańskiego</w>
+                 <w id="wp000605" lemma="informować" ana="VS---3TON----P">informuje</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000606" lemma="że" ana="D------------P">że</w>
+                 <w id="wp000607" lemma="zgodnie" ana="D---P--------P">zgodnie</w>
+                 <w id="wp000608" lemma="z" ana="P-I----------P">z</w>
+                 <w id="wp000609" lemma="rozporządzenie" ana="SSIN---------P">rozporządzeniem</w>
+                 <w id="wp000610" lemma="ministerstwo" ana="SSGN---------P">Ministerstwa</w>
+                 <w id="wp000611" lemma="oświata" ana="SSGF---------P">Oświaty</w>
+                 <w id="wp000612" lemma="wydany" ana="ASIPP--------P ASIAP--------P ASIIP--------P ASINP--------P">wydanym</w>
+                 <w id="wp000613" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000614" lemma="związek" ana="SSLI---------P">związku</w>
+                 <w id="wp000615" lemma="z" ana="P-I----------P">z</w>
+                 <w id="wp000616" lemma="utrzymujący się" ana="ASIXX--------P">utrzymującą się</w>
+                 <w id="wp000617" lemma="fala" ana="SSIF---------P">falą</w>
+                 <w id="wp000618" lemma="mróz" ana="SPGI---------P">mrozów</w>
+                 <w id="wp000619" lemma="do" ana="P-G----------P">do</w>
+                 <w id="wp000620" lemma="dzień" ana="SSGI---------P">dnia</w>
+                 <w id="wp000621" lemma="dwudziesty" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">dwudziestego</w>
+                 <w id="wp000622" lemma="szósty" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P ASAPP--------P ASAAP--------P">szóstego</w>
+                 <w id="wp000623" lemma="bieżący" ana="ASGXX--------P">bieżącego</w>
+                 <w id="wp000624" lemma="miesiąc" ana="SSGI---------P">miesiąca</w>
+                 <w id="wp000625" lemma="włącznie" ana="D---P--------P">włącznie</w>
+                 <w id="wp000626" lemma="przerywać" ana="VS---3TON----P">przerywa</w>
+                 <w id="wp000627" lemma="się" ana="Z-N----------P">się</w>
+                 <w id="wp000628" lemma="zajęcie" ana="SPAN---------P">zajęcia</w>
+                 <w id="wp000629" lemma="w" ana="P-L----------P">we</w>
+                 <w id="wp000630" lemma="wszystek" ana="APLOP--------P APLRP--------P">wszystkich</w>
+                 <w id="wp000631" lemma="szkolny" ana="APLOP--------P APLRP--------P">szkolnych</w>
+                 <w id="wp000632" lemma="placówka" ana="SPLF---------P">placówkach</w>
+                 <w id="wp000633" lemma="wychowawczy" ana="APLOP--------P APLRP--------P">wychowawczych</w>
+                 <w id="wp000634" lemma="i" ana="C------------P">i</w>
+                 <w id="wp000635" lemma="oświatowy" ana="APLOP--------P APLRP--------P">oświatowych</w>
+                 <w id="wp000636" lemma="z" ana="P-I----------P">z</w>
+                 <w id="wp000637" lemma="wyjątek" ana="SSII---------P">wyjątkiem</w>
+                 <w id="wp000638" lemma="dom" ana="SPGI---------P">Domów</w>
+                 <w id="wp000639" lemma="dziecko" ana="SSGN---------P SPNN---------P SPAN---------P SPVN---------P">dziecka</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000640" lemma="zakład" ana="SPGI---------P">zakładów</w>
+                 <w id="wp000641" lemma="wychowawczy" ana="APGOP--------P APGRP--------P">wychowawczych</w>
+                 <w id="wp000642" lemma="i" ana="C------------P">i</w>
+                 <w id="wp000643" lemma="przedszkole" ana="SPGN---------P">przedszkoli</w>
+                 <c type="kropka">.</c>
+              </s>
+              <s>
+                 <w id="wp000644" lemma="świetlica" ana="SPNF---------P">Świetlice</w>
+                 <w id="wp000645" lemma="nie" ana="T------------P">nie</w>
+                 <w id="wp000646" lemma="wymagający" ana="APNOP--------P APNRP--------P">wymagające</w>
+                 <w id="wp000647" lemma="ogrzewanie" ana="SSGN---------P">ogrzewania</w>
+                 <w id="wp000648" lemma="cały" ana="ASGXX--------P">całego</w>
+                 <w id="wp000649" lemma="budynek" ana="SSGI---------P">budynku</w>
+                 <w id="wp000650" lemma="szkolny" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">szkolnego</w>
+                 <w id="wp000651" lemma="być" ana="VP---3TON----P">są</w>
+                 <w id="wp000652" lemma="czynny" ana="APNOP--------P APNRP--------P">czynne</w>
+              </s>
+           </p>
+        </body>
+     </text>
+
+     <text id="wp0007">
+        <front>
+           <head>
+              <bibl>
+                 <title>Dziennik Bałtycki</title>
+                 <date>23.01.1963</date>
+                 <biblScope>str. 1, kol. 7</biblScope>
+              </bibl>
+           </head>
+        </front>
+        <body>
+           <p>
+              <s>
+                 <w id="wp000701" lemma="w" ana="P-L----------P">W</w>
+                 <w id="wp000702" lemma="godzina" ana="SPLF---------P">godzinach</w>
+                 <w id="wp000703" lemma="poranny" ana="APLOP--------P APLRP--------P">porannych</w>
+                 <w id="wp000704" lemma="dwudziesty" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">dwudziestego</w>
+                 <w id="wp000705" lemma="drugi" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">drugiego</w>
+                 <w id="wp000706" lemma="bieżący" ana="ASGXX--------P">bieżącego</w>
+                 <w id="wp000707" lemma="miesiąc" ana="SSGI---------P">miesiąca</w>
+                 <w id="wp000708" lemma="powrócić" ana="VS-F-3POD----P">powróciła</w>
+                 <w id="wp000709" lemma="do" ana="P-G----------P">do</w>
+                 <w id="wp000710" lemma="warszawa" ana="SSGF---------W SPNF---------W SPAF---------W SPVF---------W">Warszawy</w>
+                 <w id="wp000711" lemma="delegacja" ana="SSNF---------P">delegacja</w>
+                 <w id="wp000712" lemma="pzpr" ana="XXXXXXXXXXXXXS">PZPR</w>
+                 <w id="wp000713" lemma="na" ana="P-A----------P">na</w>
+                 <w id="wp000714" lemma="szósty" ana="ASAIP--------P">szósty</w>
+                 <w id="wp000715" lemma="zjazd" ana="SSAI---------P">Zjazd</w>
+                 <w id="wp000716" lemma="sed" ana="XXXXXXXXXXXXXS">SED</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000717" lemma="na" ana="P-L----------P">na</w>
+                 <w id="wp000718" lemma="czoło" ana="SSLN---------P">czele</w>
+                 <w id="wp000719" lemma="który" ana="ASGFP--------P">której</w>
+                 <w id="wp000720" lemma="stać się" ana="VS-M-3POD----P">stał</w>
+                 <w id="wp000721" lemma="pierwszy" ana="ASNPP--------P ASNAP--------P ASNIP--------P">pierwszy</w>
+                 <w id="wp000722" lemma="sekretarz" ana="SSNP---------P">sekretarz</w>
+                 <w id="wp000723" lemma="kc" ana="XXXXXXXXXXXXXS">KC</w>
+                 <w id="wp000724" lemma="pzpr" ana="XXXXXXXXXXXXXS">PZPR</w>
+                 <w id="wp000725" lemma="władysław" ana="SSNP---------W">Władysław</w>
+                 <w id="wp000726" lemma="gomułka" ana="XXXXXXXXXXXXXW">Gomułka</w>
+                 <c type="kropka">.</c>
+              </s>
+              <s>
+                 <w id="wp000727" lemma="delegacja" ana="SSNF---------P">Delegacja</w>
+                 <w id="wp000728" lemma="kpzr" ana="XXXXXXXXXXXXXS">KPZR</w>
+                 <w id="wp000729" lemma="z" ana="P-I----------P">z</w>
+                 <w id="wp000730" lemma="pierwszy" ana="ASIPP--------P ASIAP--------P ASIIP--------P ASINP--------P ASIPC--------P ASIAC--------P ASIIC--------P ASINC--------P">pierwszym</w>
+                 <w id="wp000731" lemma="sekretarz" ana="SSIP---------P">sekretarzem</w>
+                 <w id="wp000732" lemma="kc" ana="XXXXXXXXXXXXXS">KC</w>
+                 <w id="wp000733" lemma="kpzr" ana="XXXXXXXXXXXXXS">KPZR</w>
+                 <w id="wp000734" lemma="nikita" ana="XXXXXXXXXXXXXW">Nikitą</w>
+                 <w id="wp000735" lemma="chruszczow" ana="XXXXXXXXXXXXXW">Chruszczowem</w>
+                 <w id="wp000736" lemma="na" ana="P-L----------P">na</w>
+                 <w id="wp000737" lemma="czoło" ana="SSLN---------P">czele</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000738" lemma="który" ana="ASNFP--------P">która</w>
+                 <w id="wp000739" lemma="uczestniczyć" ana="VS-F-3PON----P">uczestniczyła</w>
+                 <w id="wp000740" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000741" lemma="obrada" ana="SPLF---------P">obradach</w>
+                 <w id="wp000742" lemma="szósty" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">Szóstego</w>
+                 <w id="wp000743" lemma="zjazd" ana="SSGI---------P SSVI---------P">Zjazdu</w>
+                 <w id="wp000744" lemma="sed" ana="XXXXXXXXXXXXXS">SED</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000745" lemma="opuścić" ana="VS-F-3POD----P">opuściła</w>
+                 <w id="wp000746" lemma="dwudziesty" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">dwudziestego</w>
+                 <w id="wp000747" lemma="drugi" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">drugiego</w>
+                 <w id="wp000748" lemma="bieżący" ana="ASGXX--------P">bieżącego</w>
+                 <w id="wp000749" lemma="miesiąc" ana="SSGI---------P">miesiąca</w>
+                 <w id="wp000750" lemma="berlin" ana="SSAI---------W">Berlin</w>
+                 <w id="wp000751" lemma="udawać się" ana="V----W--NZ---P">udając</w>
+                 <w id="wp000752" lemma="się" ana="Z-N----------P Z-G-------N--P Z-A-------N--P">się</w>
+                 <w id="wp000753" lemma="w" ana="P-A----------P">w</w>
+                 <w id="wp000754" lemma="droga" ana="SSAF---------P">drogę</w>
+                 <w id="wp000755" lemma="powrotny" ana="ASAFP--------P">powrotną</w>
+                 <w id="wp000756" lemma="do" ana="P-G----------P">do</w>
+                 <w id="wp000757" lemma="związek" ana="SSGI---------W">Związku</w>
+                 <w id="wp000758" lemma="radziecki" ana="ASGPP--------W ASGAP--------W ASGIP--------W ASGNP--------W">Radzieckiego</w>
+                 <c type="kropka">.</c>
+              </s>
+           </p>
+        </body>
+     </text>
+
+     <text id="wp0008">
+        <front>
+           <head>
+              <bibl>
+                 <title>Dziennik Bałtycki</title>
+                 <date>23.01.1962</date>
+                 <biblScope>str. 2, kol. 4</biblScope>
+              </bibl>
+           </head>
+        </front>
+        <body>
+           <p>
+              <s>
+                 <w id="wp000801" lemma="na" ana="P-L----------P">Na</w>
+                 <w id="wp000802" lemma="ten" ana="ASLFP--------P">tej</w>
+                 <w id="wp000803" lemma="droga" ana="SSLF---------P">drodze</w>
+                 <w id="wp000804" lemma="móc" ana="VP-R-3PON----P">mogły</w>
+                 <w id="wp000805" lemma="polski" ana="APNOP--------P APNRP--------P">polskie</w>
+                 <w id="wp000806" lemma="masa" ana="SPNF---------P">masy</w>
+                 <w id="wp000807" lemma="ludowy" ana="APNOP--------P APNRP--------P">ludowe</w>
+                 <w id="wp000808" lemma="osiągnąć" ana="V----I--D----P">osiągnąć</w>
+                 <w id="wp000809" lemma="wyzwolenie" ana="SSAN---------P">wyzwolenie</w>
+                 <w id="wp000810" lemma="narodowy" ana="ASANP--------P">narodowe</w>
+                 <w id="wp000811" lemma="i" ana="C------------P">i</w>
+                 <w id="wp000812" lemma="społeczny" ana="ASANP--------P">społeczne</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000813" lemma="który" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">którego</w>
+                 <w id="wp000814" lemma="ostateczny" ana="ASIPP--------P ASIAP--------P ASIIP--------P ASINP--------P">ostatecznym</w>
+                 <w id="wp000815" lemma="i" ana="C------------P">i</w>
+                 <w id="wp000816" lemma="pełny" ana="ASIPP--------P ASIAP--------P ASIIP--------P ASINP--------P ASIPS--------P ASIAS--------P ASIIS--------P ASINS--------P">najpełniejszym</w>
+                 <w id="wp000817" lemma="wyraz" ana="SSII---------P">wyrazem</w>
+                 <w id="wp000818" lemma="być" ana="VS---3TON----P">jest</w>
+                 <w id="wp000819" lemma="idący" ana="XXXXXXXXXXXXXP">idąca</w>
+                 <w id="wp000820" lemma="droga" ana="SSIF---------P">drogą</w>
+                 <w id="wp000821" lemma="budownictwo" ana="SSGN---------P">budownictwa</w>
+                 <w id="wp000822" lemma="socjalistyczny" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">socjalistycznego</w>
+                 <w id="wp000823" lemma="polski" ana="ASNFP--------W">Polska</w>
+                 <w id="wp000824" lemma="rzeczpospolita" ana="XXXXXXXXXXXXXW">Rzeczpospolita</w>
+                 <w id="wp000825" lemma="ludowy" ana="ASNFP--------W">Ludowa</w>
+                 <c type="kropka">.</c>
+              </s>
+              <s>
+                 <w id="wp000826" lemma="następnie" ana="D---P--------P">Następnie</w>
+                 <w id="wp000827" lemma="aleksander" ana="SSNP---------W">Aleksander</w>
+                 <w id="wp000828" lemma="zawadzki" ana="XXXXXXXXXXXXXW">Zawadzki</w>
+                 <w id="wp000829" lemma="dokonać" ana="VS-M-3POD----P">dokonał</w>
+                 <w id="wp000830" lemma="otwarcie" ana="SSGN---------P">otwarcia</w>
+                 <w id="wp000831" lemma="muzeum" ana="SSGN---------P">muzeum</w>
+                 <w id="wp000832" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000833" lemma="dziesiąty" ana="ASLPP--------P ASLAP--------P ASLIP--------P ASLNP--------P">dziesiątym</w>
+                 <w id="wp000834" lemma="pawilon" ana="SSLI---------P SSVI---------P">Pawilonie</w>
+                 <c type="kropka">.</c>
+              </s>
+           </p>
+        </body>
+     </text>
+
+     <text id="wp0009">
+        <front>
+           <head>
+              <bibl>
+                 <title>Dziennik Bałtycki</title>
+                 <date>23.01.1963</date>
+                 <biblScope>str. 3, kol. 2</biblScope>
+              </bibl>
+           </head>
+        </front>
+        <body>
+           <p>
+              <s>
+                 <w id="wp000901" lemma="z" ana="P-G----------P">Z</w>
+                 <w id="wp000902" lemma="opracowanie" ana="SPGN---------P">opracowań</w>
+                 <w id="wp000903" lemma="bremeński" ana="ASGXX--------P">bremeńskiego</w>
+                 <w id="wp000904" lemma="instytut" ana="SSGI---------P">Instytutu</w>
+                 <w id="wp000905" lemma="badanie" ana="SPGN---------P">Badań</w>
+                 <w id="wp000906" lemma="żeglugowy" ana="APGOP--------P APGRP--------P">Żeglugowych</w>
+                 <w id="wp000907" lemma="wynikać" ana="VS---3TON----P">wynika</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp000908" lemma="że" ana="D------------P">że</w>
+                 <w id="wp000909" lemma="jedynie" ana="D---P--------P">jedynie</w>
+                 <w id="wp000910" lemma="dwieście" ana="NPNR---------P">dwieście</w>
+                 <w id="wp000911" lemma="pięćdziesiąt" ana="NPNR---------P">pięćdziesiąt</w>
+                 <w id="wp000912" lemma="port" ana="SPGI---------P">portów</w>
+                 <w id="wp000913" lemma="na" ana="P-L----------P">na</w>
+                 <w id="wp000914" lemma="cały" ana="ASLXX--------P">całym</w>
+                 <w id="wp000915" lemma="świecie" ana="SSNN---------P">świecie</w>
+                 <c type="nawiasOtwierający">(</c>
+                 <w id="wp000916" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp000917" lemma="ogólny" ana="ASLFP--------P">ogólnej</w>
+                 <w id="wp000918" lemma="ilość" ana="SSLF---------P">ilości</w>
+                 <w id="wp000919" lemma="dwa" ana="NPNX---------P">dwa</w>
+                 <w id="wp000920" lemma="tysiąc" ana="SPNI---------P SPAI---------P SPVI---------P">tysiące</w>
+                 <w id="wp000921" lemma="pięćset" ana="NPNR---------P NPAR---------P">pięćset</w>
+                 <w id="wp000922" lemma="port" ana="SPGI---------P">portów</w>
+                 <c type="nawiasZamykający">)</c>
+                 <w id="wp000923" lemma="móc" ana="VX-X-XXXXX--XP">może</w>
+                 <w id="wp000924" lemma="przyjąć" ana="XXXXXXXXXXXXXP">przyjmować</w>
+                 <w id="wp000925" lemma="statek-olbrzym" ana="SPAI---------P">statki-olbrzymy</w>
+                 <w id="wp000926" lemma="o" ana="P-L----------P">o</w>
+                 <w id="wp000927" lemma="nośność" ana="SSLF---------P">nośności</w>
+                 <w id="wp000928" lemma="przekraczający" ana="ASLXX--------P">przekraczającej</w>
+                 <w id="wp000929" lemma="pięćdziesiąt" ana="NPAR---------P">pięćdziesiąt</w>
+                 <w id="wp000930" lemma="tysiąc" ana="SPGI---------P">tysięcy</w>
+                 <w id="wp000931" lemma="tona" ana="SPGF---------P">ton</w>
+                 <w id="wp000932" lemma="i" ana="C------------P">i</w>
+                 <w id="wp000933" lemma="że" ana="D------------P">że</w>
+                 <w id="wp000934" lemma="jedynie" ana="D---P--------P">jedynie</w>
+                 <w id="wp000935" lemma="pięćdziesiąt" ana="NPNR---------P">pięćdziesiąt</w>
+                 <w id="wp000936" lemma="cztery" ana="NPNX---------P">cztery</w>
+                 <w id="wp000937" lemma="z" ana="P-G----------P">z</w>
+                 <w id="wp000938" lemma="ten" ana="APGOP--------P APGRP--------P">tych</w>
+                 <w id="wp000939" lemma="port" ana="SPGI---------P">portów</w>
+                 <w id="wp000940" lemma="móc" ana="VX-X-XXXXX--XP">może</w>
+                 <w id="wp000941" lemma="obsługiwać" ana="V----I--N----P">obsługiwać</w>
+                 <w id="wp000942" lemma="tak" ana="D------------P T------------P">tak</w>
+                 <w id="wp000943" lemma="wielki" ana="APARP--------P">wielkie</w>
+                 <w id="wp000944" lemma="statek" ana="SPAI---------P">statki</w>
+                 <w id="wp000945" lemma="przy" ana="P-L----------P">przy</w>
+                 <w id="wp000946" lemma="nabrzeże" ana="XXXXXXXXXXXXXP">nabrzeżach</w>
+                 <c type="kropka">.</c>
+              </s>
+           </p>
+        </body>
+     </text>
+
+     <text id="wp0010">
+        <front>
+           <head>
+              <bibl>
+                 <title>Dziennik Bałtycki</title>
+                 <date>23.01.1963</date>
+                 <biblScope>str. 3, kol. 4</biblScope>
+              </bibl>
+           </head>
+        </front>
+        <body>
+           <p>
+              <s>
+                 <w id="wp001001" lemma="być" ana="VP---3TON----P">Są</w>
+                 <w id="wp001002" lemma="on" ana="ZPNO---------P ZPNR---------P">one</w>
+                 <w id="wp001003" lemma="niezmiernie" ana="D---P--------P">niezmiernie</w>
+                 <w id="wp001004" lemma="lekki" ana="APNOP--------P APNRP--------P">lekkie</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp001005" lemma="zaopatrzony" ana="APNOP--------P APNRP--------P">zaopatrzone</w>
+                 <w id="wp001006" lemma="również" ana="T------------P">również</w>
+                 <w id="wp001007" lemma="w" ana="P-A----------P">w</w>
+                 <w id="wp001008" lemma="zbiornik" ana="SPAI---------P">zbiorniki</w>
+                 <w id="wp001009" lemma="powietrzny" ana="APARP--------P">powietrzne</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp001010" lemma="zapewniający" ana="APAXX--------P">zapewniające</w>
+                 <w id="wp001011" lemma="niezatapialność" ana="SSAF---------P">niezatapialność</w>
+                 <c type="kropka">.</c>
+              </s>
+              <s>
+                 <w id="wp001012" lemma="być" ana="VP---3TON----P">Są</w>
+                 <w id="wp001013" lemma="on" ana="ZPNO---------P ZPNR---------P">one</w>
+                 <w id="wp001014" lemma="właściwie" ana="D---P--------P">właściwie</w>
+                 <w id="wp001015" lemma="niezniszczalny" ana="APNOP--------P APNRP--------P">niezniszczalne</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp001016" lemma="wytrzymywać" ana="VP---3TON----P">wytrzymują</w>
+                 <w id="wp001017" lemma="bowiem" ana="C------------P">bowiem</w>
+                 <w id="wp001018" lemma="dobrze" ana="D---P--------P">dobrze</w>
+                 <w id="wp001019" lemma="taki" ana="APARP--------P">takie</w>
+                 <w id="wp001020" lemma="dodatkowy" ana="APARP--------P">dodatkowe</w>
+                 <w id="wp001021" lemma="próba" ana="SPAF---------P">próby</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp001022" lemma="jak" ana="C------------P">jak</w>
+                 <w id="wp001023" lemma="zrzucenie" ana="SSNN---------P">zrzucenie</w>
+                 <w id="wp001024" lemma="całkowicie" ana="D---P--------P">całkowicie</w>
+                 <w id="wp001025" lemma="obciążony" ana="ASGXX--------P">obciążonej</w>
+                 <w id="wp001026" lemma="łódź" ana="SSGF---------P">łodzi</w>
+                 <w id="wp001027" lemma="z" ana="P-G----------P">z</w>
+                 <w id="wp001028" lemma="wysokość" ana="SSGF---------P">wysokości</w>
+                 <w id="wp001029" lemma="dwa" ana="NPGX---------P">dwóch</w>
+                 <w id="wp001030" lemma="i" ana="C------------P">i</w>
+                 <w id="wp001031" lemma="pięć" ana="NPNR---------P NPAR---------P">pięć</w>
+                 <w id="wp001032" lemma="dziesiąta" ana="SPGF---------P">dziesiątych</w>
+                 <w id="wp001033" lemma="metro" ana="SSGN---------P SPNN---------P SPAN---------P SPVN---------P">metra</w>
+                 <w id="wp001034" lemma="na" ana="P-A----------P">na</w>
+                 <w id="wp001035" lemma="posadzka" ana="SSAF---------P">posadzkę</w>
+                 <w id="wp001036" lemma="oraz" ana="C------------P">oraz</w>
+                 <w id="wp001037" lemma="odciągnięcie" ana="SSNN---------P">odciągnięcie</w>
+                 <w id="wp001038" lemma="również" ana="T------------P">również</w>
+                 <w id="wp001039" lemma="obciążony" ana="ASGXX--------P">obciążonej</w>
+                 <w id="wp001040" lemma="łódź" ana="SSGF---------P">łodzi</w>
+                 <w id="wp001041" lemma="na" ana="P-L----------P">na</w>
+                 <w id="wp001042" lemma="dźwig" ana="SSLI---------P">dźwigu</w>
+                 <w id="wp001043" lemma="o" ana="P-L----------P">o</w>
+                 <w id="wp001044" lemma="trzy" ana="NPLX---------P">trzech</w>
+                 <w id="wp001045" lemma="metr" ana="SPLI---------P">metrach</w>
+                 <w id="wp001046" lemma="wysokość" ana="SSGF---------P">wysokości</w>
+                 <w id="wp001047" lemma="w" ana="P-A----------P">w</w>
+                 <w id="wp001048" lemma="bok" ana="SSAI---------P">bok</w>
+                 <w id="wp001049" lemma="i" ana="C------------P">i</w>
+                 <w id="wp001050" lemma="rzucenie" ana="SSNN---------P">rzucenie</w>
+                 <w id="wp001051" lemma="on" ana="ZSGF-------N-P">jej</w>
+                 <w id="wp001052" lemma="z" ana="P-I----------P">z</w>
+                 <w id="wp001053" lemma="rozpęd" ana="SSII---------P">rozpędem</w>
+                 <w id="wp001054" lemma="o" ana="P-A----------P">o</w>
+                 <w id="wp001055" lemma="ściana" ana="SSAF---------P">ścianę</w>
+                 <c type="kropka">.</c>
+              </s>
+           </p>
+        </body>
+     </text>
+
+     <text id="wp0011">
+        <front>
+           <head>
+              <bibl>
+                 <title>Dziennik Bałtycki</title>
+                 <date>27.01.1963</date>
+                 <biblScope>str. 1, kol. 3</biblScope>
+              </bibl>
+           </head>
+        </front>
+        <body>
+           <p>
+              <s>
+                 <w id="wp001101" lemma="w" ana="P-L----------P">W</w>
+                 <w id="wp001102" lemma="ten" ana="ASLFP--------P">tej</w>
+                 <w id="wp001103" lemma="chwila" ana="SSLF---------P">chwili</w>
+                 <w id="wp001104" lemma="sytuacja" ana="SSNF---------P">sytuacja</w>
+                 <w id="wp001105" lemma="być" ana="VS---3TON----P">jest</w>
+                 <w id="wp001106" lemma="taki" ana="ASNFP--------P">taka</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp001107" lemma="że" ana="D------------P">że</w>
+                 <w id="wp001108" lemma="francuz" ana="SPNI---------P SPAI---------P SPVI---------P">Francuzi</w>
+                 <w id="wp001109" lemma="zgodzić się" ana="VP-O-3PODZ---P">zgodzili</w>
+                 <w id="wp001110" lemma="się" ana="Z-N----------P Z-G-------N--P Z-A-------N--P">się</w>
+                 <w id="wp001111" lemma="na" ana="P-A----------P">na</w>
+                 <w id="wp001112" lemma="zestawienie" ana="SSAN---------P">zestawienie</w>
+                 <w id="wp001113" lemma="lista" ana="SSGF---------P">listy</w>
+                 <w id="wp001114" lemma="roszczenie" ana="SPGN---------P">roszczeń</w>
+                 <w id="wp001115" lemma="brytyjski" ana="APGOP--------P APGRP--------P">brytyjskich</w>
+                 <w id="wp001116" lemma="oraz" ana="C------------P">oraz</w>
+                 <w id="wp001117" lemma="sprawa" ana="SPGF---------P">spraw</w>
+                 <w id="wp001118" lemma="załatwiony" ana="APGOP--------P APGRP--------P">załatwionych</w>
+                 <w id="wp001119" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp001120" lemma="dotychczasowy" ana="APLOP--------P APLRP--------P">dotychczasowych</w>
+                 <w id="wp001121" lemma="szesnastomiesięczny" ana="APLXX--------P">szesnastomiesięcznych</w>
+                 <w id="wp001122" lemma="debata" ana="SPLF---------P">debatach</w>
+                 <c type="kropka">.</c>
+              </s>
+              <s>
+                 <w id="wp001123" lemma="znamienny" ana="ASNNP--------P">Znamienne</w>
+                 <w id="wp001124" lemma="być" ana="VS---3TON----P">jest</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp001125" lemma="że" ana="D------------P">że</w>
+                 <w id="wp001126" lemma="delegacja" ana="SSNF---------P">delegacja</w>
+                 <w id="wp001127" lemma="boński" ana="XXXXXXXXXXXXXP">bońska</w>
+                 <w id="wp001128" lemma="na" ana="P-A----------P">na</w>
+                 <w id="wp001129" lemma="poniedziałkowy" ana="APARP--------P">poniedziałkowe</w>
+                 <w id="wp001130" lemma="obrada" ana="SPAF---------P">obrady</w>
+                 <w id="wp001131" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp001132" lemma="bruksela" ana="SSLF---------W">Brukseli</w>
+                 <w id="wp001133" lemma="udać się" ana="VS---3TODZ---P">uda</w>
+                 <w id="wp001134" lemma="się" ana="Z-N----------P Z-G-------N--P Z-A-------N--P">się</w>
+                 <w id="wp001135" lemma="pod" ana="P-I----------P">pod</w>
+                 <w id="wp001136" lemma="przewodnictwo" ana="SSIN---------P">przewodnictwem</w>
+                 <w id="wp001137" lemma="wicekanclerz" ana="SSGP---------P">wicekanclerza</w>
+                 <w id="wp001138" lemma="erhard" ana="SSGP---------W">Erharda</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp001139" lemma="który" ana="ASNPP--------P ASNAP--------P ASNIP--------P">który</w>
+                 <w id="wp001140" lemma="nie" ana="T------------P">nie</w>
+                 <w id="wp001141" lemma="być" ana="VS-M-3PON----P">był</w>
+                 <w id="wp001142" lemma="przy" ana="P-L----------P">przy</w>
+                 <w id="wp001143" lemma="podpisanie" ana="SSLN---------P">podpisaniu</w>
+                 <w id="wp001144" lemma="traktat" ana="SSGI---------P SSDI---------P">traktatu</w>
+                 <w id="wp001145" lemma="pokojowy" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">pokojowego</w>
+                 <w id="wp001146" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp001147" lemma="paryż" ana="SSGI---------W SSLI---------W SSVI---------W">Paryżu</w>
+                 <w id="wp001148" lemma="oraz" ana="C------------P">oraz</w>
+                 <w id="wp001149" lemma="być" ana="VS---3TON----P">jest</w>
+                 <w id="wp001150" lemma="zdecydowany" ana="ASIPP--------P ASIAP--------P ASIIP--------P ASINP--------P ASIPP--------P ASIAP--------P ASIIP--------P ASINP--------P">zdecydowanym</w>
+                 <w id="wp001151" lemma="zwolennik" ana="SSIP---------P">zwolennikiem</w>
+                 <w id="wp001152" lemma="wejście" ana="SSGN---------P">wejścia</w>
+                 <w id="wp001153" lemma="anglia" ana="SSGF---------W">Anglii</w>
+                 <w id="wp001154" lemma="do" ana="P-G----------P">do</w>
+                 <w id="wp001155" lemma="ewg" ana="XXXXXXXXXXXXXS">EWG</w>
+                 <c type="kropka">.</c>
+              </s>
+           </p>
+        </body>
+     </text>
+
+     <text id="wp0012">
+        <front>
+           <head>
+              <bibl>
+                 <title>Dziennik Bałtycki</title>
+                 <date>27.01.1963</date>
+                 <biblScope>str. 1, kol. 6</biblScope>
+              </bibl>
+           </head>
+        </front>
+        <body>
+           <p>
+              <s>
+                 <w id="wp001201" lemma="dwa" ana="XXXXXXXXXXXXXP">Dwaj</w>
+                 <w id="wp001202" lemma="redaktor" ana="SPNP---------P SPVP---------P">redaktorzy</w>
+                 <w id="wp001203" lemma="turecki" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">tureckiego</w>
+                 <w id="wp001204" lemma="dziennik" ana="SSGI---------P">dziennika</w>
+                 <c type="cudzysłówOtwierający">"</c>
+                 <w id="wp001205" lemma="hurryet" ana="XXXXXXXXXXXXXP">Hurryet</w>
+                 <c type="cudzysłówZamykający">"</c>
+                 <w id="wp001206" lemma="i" ana="C------------P">i</w>
+                 <w id="wp001207" lemma="będący" ana="ASNPP--------P ASNAP--------P ASNIP--------P">będący</w>
+                 <w id="wp001208" lemma="z" ana="P-I----------P">z</w>
+                 <w id="wp001209" lemma="on" ana="ZPIO---------P ZPIR---------P">nimi</w>
+                 <w id="wp001210" lemma="kierowca" ana="SSNP---------P">kierowca</w>
+                 <w id="wp001211" lemma="samochód" ana="SSGI---------P">samochodu</w>
+                 <w id="wp001212" lemma="zginąć" ana="XXXXXXXXXXXXXP">zginęli</w>
+                 <w id="wp001213" lemma="z" ana="P-G----------P">z</w>
+                 <w id="wp001214" lemma="zimno" ana="SSGN---------P">zimna</w>
+                 <w id="wp001215" lemma="podczas" ana="P-G----------P">podczas</w>
+                 <w id="wp001216" lemma="zbieranie" ana="SSGN---------P">zbierania</w>
+                 <w id="wp001217" lemma="materiał" ana="SSGI---------P">materiału</w>
+                 <w id="wp001218" lemma="do" ana="P-G----------P">do</w>
+                 <w id="wp001219" lemma="reportaż" ana="SSGI---------P">reportażu</w>
+                 <c type="kropka">.</c>
+              </s>
+              <s>
+                 <w id="wp001220" lemma="redaktor" ana="SPNP---------P SPVP---------P">Redaktorzy</w>
+                 <w id="wp001221" lemma="wyjechać" ana="VP-O-3POD----P">wyjechali</w>
+                 <w id="wp001222" lemma="w" ana="P-A----------P">w</w>
+                 <w id="wp001223" lemma="czwartek" ana="SSNI---------P SSAI---------P">czwartek</w>
+                 <w id="wp001224" lemma="z" ana="P-G----------P">ze</w>
+                 <w id="wp001225" lemma="stambuł" ana="XXXXXXXXXXXXXW">Stambułu</w>
+                 <w id="wp001226" lemma="do" ana="P-G----------P">do</w>
+                 <w id="wp001227" lemma="tracja" ana="SSGF---------W">Tracji</w>
+                 <w id="wp001228" lemma="aby" ana="C------------P">aby</w>
+                 <w id="wp001229" lemma="opracować" ana="V----I--D----P">opracować</w>
+                 <w id="wp001230" lemma="reportaż" ana="SSAI---------P">reportaż</w>
+                 <w id="wp001231" lemma="na" ana="P-A----------P">na</w>
+                 <w id="wp001232" lemma="temat" ana="SSAI---------P">temat</w>
+                 <w id="wp001233" lemma="zablokowany" ana="APGOP--------P APGRP--------P">zablokowanych</w>
+                 <w id="wp001234" lemma="przez" ana="P-A----------P">przez</w>
+                 <w id="wp001235" lemma="śnieg" ana="SPAI---------P">śniegi</w>
+                 <w id="wp001236" lemma="pociąg" ana="SPGI---------P">pociągów</w>
+                 <w id="wp001237" lemma="pasażerski" ana="APGOP--------P APGRP--------P">pasażerskich</w>
+                 <c type="kropka">.</c>
+              </s>
+           </p>
+        </body>
+     </text>
+
+     <text id="wp0013">
+        <front>
+           <head>
+              <bibl>
+                 <title>Dziennik Bałtycki</title>
+                 <date>27.01.1963</date>
+                 <biblScope>str. 2, kol. 4</biblScope>
+              </bibl>
+           </head>
+        </front>
+        <body>
+           <p>
+              <s>
+                 <w id="wp001301" lemma="wiadomość" ana="SSNF---------P">Wiadomość</w>
+                 <w id="wp001302" lemma="o" ana="P-L----------P">o</w>
+                 <w id="wp001303" lemma="to" ana="Z-L-------XX-P">tym</w>
+                 <w id="wp001304" lemma="zostać" ana="VS-F-IPODB--OP">została</w>
+                 <w id="wp001305" lemma="zakomunikowany" ana="ASNFP--------P">zakomunikowana</w>
+                 <w id="wp001306" lemma="dotychczasowy" ana="ASDPP--------P ASDAP--------P ASDIP--------P ASDNP--------P">dotychczasowemu</w>
+                 <w id="wp001307" lemma="prezydent" ana="SSDP---------P">prezydentowi</w>
+                 <w id="wp001308" lemma="dominikana" ana="XXXXXXXXXXXXXW">Dominikany</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp001309" lemma="rafael" ana="XXXXXXXXXXXXXW">Rafaelowi</w>
+                 <w id="wp001310" lemma="bonelly" ana="XXXXXXXXXXXXXW">Bonelly</w>
+                 <w id="wp001311" lemma="przez" ana="P-A----------P">przez</w>
+                 <w id="wp001312" lemma="nowo" ana="D---P--------P">nowo</w>
+                 <w id="wp001313" lemma="obrany" ana="ASAPP--------P ASAAP--------P">obranego</w>
+                 <w id="wp001314" lemma="wiceprezydent" ana="SSAP---------P">wiceprezydenta</w>
+                 <w id="wp001315" lemma="gonzales" ana="SSAP---------W">Gonzalesa</w>
+                 <w id="wp001316" lemma="i" ana="C------------P">i</w>
+                 <w id="wp001317" lemma="przywódca" ana="SPAP---------P">przywódców</w>
+                 <w id="wp001318" lemma="partia" ana="SPGF---------P">partii</w>
+                 <w id="wp001319" lemma="stowarzyszony" ana="APGOP--------P APGRP--------P APGOP--------P APGRP--------P">stowarzyszonych</w>
+                 <w id="wp001320" lemma="z" ana="P-I----------P">z</w>
+                 <w id="wp001321" lemma="rewolucyjny" ana="ASIFP--------P">rewolucyjną</w>
+                 <w id="wp001322" lemma="partia" ana="SSIF---------P">partią</w>
+                 <w id="wp001323" lemma="dominikański" ana="ASIFP--------P">dominikańską</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp001324" lemma="który" ana="ASNFP--------P">która</w>
+                 <w id="wp001325" lemma="odnieść" ana="VS-F-3POD----P">odniosła</w>
+                 <w id="wp001326" lemma="zwycięstwo" ana="SSAN---------P">zwycięstwo</w>
+                 <w id="wp001327" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp001328" lemma="ostatni" ana="APLOP--------P APLRP--------P">ostatnich</w>
+                 <w id="wp001329" lemma="wybór" ana="SPLI---------P">wyborach</w>
+                 <c type="kropka">.</c>
+              </s>
+              <s>
+                 <w id="wp001330" lemma="prezydent" ana="SSNP---------P">Prezydent</w>
+                 <w id="wp001331" lemma="republika" ana="SSGF---------W">Republiki</w>
+                 <w id="wp001332" lemma="dominikański" ana="ASGFP--------W">Dominikańskiej</w>
+                 <w id="wp001333" lemma="oświadczyć" ana="VS-M-3POD----P">oświadczył</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp001334" lemma="że" ana="D------------P">że</w>
+                 <w id="wp001335" lemma="wydać się" ana="VS-M-3POD----P">wydał</w>
+                 <w id="wp001336" lemma="rozkaz" ana="SSAI---------P">rozkaz</w>
+                 <w id="wp001337" lemma="dowódca" ana="SPDP---------P">dowódcom</w>
+                 <w id="wp001338" lemma="siła" ana="SPGF---------P">sił</w>
+                 <w id="wp001339" lemma="porządkowy" ana="APGOP--------P APGRP--------P">porządkowych</w>
+                 <w id="wp001340" lemma="by" ana="C------------P">by</w>
+                 <w id="wp001341" lemma="przedsięwziąć" ana="XXXXXXXXXXXXXP">przedsięwzięli</w>
+                 <c type="cudzysłówOtwierający">"</c>
+                 <w id="wp001342" lemma="wszelki" ana="APARP--------P">wszelkie</w>
+                 <w id="wp001343" lemma="konieczny" ana="APARP--------P">konieczne</w>
+                 <w id="wp001344" lemma="krok" ana="SPAI---------P">kroki</w>
+                 <w id="wp001345" lemma="bezpieczeństwo" ana="SSGN---------P">bezpieczeństwa</w>
+                 <c type="cudzysłówZamykający">"</c>
+                 <c type="kropka">.</c>
+              </s>
+           </p>
+        </body>
+     </text>
+
+     <text id="wp0014">
+        <front>
+           <head>
+              <bibl>
+                 <title>Dziennik Bałtycki</title>
+                 <date>27.01.1963</date>
+                 <biblScope>str. 2, kol. 5</biblScope>
+              </bibl>
+           </head>
+        </front>
+        <body>
+           <p>
+              <s>
+                 <w id="wp001401" lemma="załoga" ana="SPNF---------P">Załogi</w>
+                 <w id="wp001402" lemma="nasz" ana="APGOP--------P APGRP--------P">naszych</w>
+                 <w id="wp001403" lemma="dziesięciotysięcznik" ana="XXXXXXXXXXXXXP">dziesięciotysięczników</w>
+                 <w id="wp001404" lemma="mieć" ana="VP-R-3PON----P">miały</w>
+                 <w id="wp001405" lemma="więcej" ana="D------------P">najwięcej</w>
+                 <w id="wp001406" lemma="kłopot" ana="SPGI---------P">kłopotów</w>
+                 <w id="wp001407" lemma="z" ana="P-I----------P">z</w>
+                 <w id="wp001408" lemma="zapychający się" ana="XXXXXXXXXXXXXP">zapychającymi się</w>
+                 <w id="wp001409" lemma="lód" ana="SPII---------P">lodami</w>
+                 <w id="wp001410" lemma="" ana="XXXXXXXXXXXXXP">kinkstonami</w>
+                 <c type="kropka">.</c>
+              </s>
+              <s>
+                 <w id="wp001411" lemma="trzeba" ana="V------P----WP">Trzeba</w>
+                 <w id="wp001412" lemma="być" ana="VS-N-3PON----P">było</w>
+                 <w id="wp001413" lemma="wielokrotnie" ana="D---P--------P">wielokrotnie</w>
+                 <w id="wp001414" lemma="zatrzymywać się" ana="V----I--NZ---P">zatrzymywać</w>
+                 <w id="wp001415" lemma="się" ana="Z-N----------P Z-G-------N--P Z-A-------N--P">się</w>
+                 <w id="wp001416" lemma="i" ana="C------------P">i</w>
+                 <w id="wp001417" lemma="on" ana="ZSAF-------N-P ZPAR-------N-P">je</w>
+                 <w id="wp001418" lemma="oczyszczać" ana="V----I--N----P">oczyszczać</w>
+                 <c type="kropka">.</c>
+              </s>
+              <s>
+                 <w id="wp001419" lemma="statek" ana="SPNI---------P">Statki</w>
+                 <w id="wp001420" lemma="dotrzeć" ana="VP-R-3POD----P">dotarły</w>
+                 <w id="wp001421" lemma="jednak" ana="C------------P T------------P">jednak</w>
+                 <w id="wp001422" lemma="bez" ana="P-G----------P">bez</w>
+                 <w id="wp001423" lemma="żaden" ana="APGOP--------P APGRP--------P">żadnych</w>
+                 <w id="wp001424" lemma="większy" ana="APGOC--------P APGRC--------P APGOP--------P APGRP--------P">większych</w>
+                 <w id="wp001425" lemma="przeszkoda" ana="SPGF---------P">przeszkód</w>
+                 <w id="wp001426" lemma="do" ana="P-G----------P">do</w>
+                 <w id="wp001427" lemma="port" ana="SSGI---------P SSDI---------P">portu</w>
+                 <w id="wp001428" lemma="gdyński" ana="ASGXX--------P">gdyńskiego</w>
+                 <w id="wp001429" lemma="i" ana="C------------P">i</w>
+                 <w id="wp001430" lemma="doker" ana="SPNP---------P SPVP---------P">dokerzy</w>
+                 <w id="wp001431" lemma="przystąpić" ana="VP-O-3POD----P">przystąpili</w>
+                 <w id="wp001432" lemma="już" ana="T------------P">już</w>
+                 <w id="wp001433" lemma="do" ana="P-G----------P">do</w>
+                 <w id="wp001434" lemma="wyładunek" ana="SSGI---------P">wyładunku</w>
+                 <w id="wp001435" lemma="przywieziony" ana="APGOP--------P APGRP--------P">przywiezionych</w>
+                 <w id="wp001436" lemma="towar" ana="SPGI---------P">towarów</w>
+                 <c type="kropka">.</c>
+              </s>
+           </p>
+        </body>
+     </text>
+
+     <text id="wp0015">
+        <front>
+           <head>
+              <bibl>
+                 <title>Dziennik Bałtycki</title>
+                 <date>27.01.1963</date>
+                 <biblScope>str. 8, kol. 3</biblScope>
+              </bibl>
+           </head>
+        </front>
+        <body>
+           <p>
+              <s>
+                 <w id="wp001501" lemma="powołać" ana="V----B--D----P">Powołano</w>
+                 <w id="wp001502" lemma="również" ana="T------------P">również</w>
+                 <w id="wp001503" lemma="komisja" ana="SPAF---------P">komisje</w>
+                 <c type="dwukropek">:</c>
+                 <w id="wp001504" lemma="historyczny" ana="ASAFP--------P">historyczną</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp001505" lemma="dla" ana="P-G----------P">dla</w>
+                 <w id="wp001506" lemma="zbieranie" ana="SSGN---------P">zbierania</w>
+                 <w id="wp001507" lemma="wspomnienie" ana="SPGN---------P">wspomnień</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp001508" lemma="relacja" ana="SPGF---------P">relacji</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp001509" lemma="różny" ana="APGOP--------P APGRP--------P">różnych</w>
+                 <w id="wp001510" lemma="dokument" ana="SPGI---------P">dokumentów</w>
+                 <w id="wp001511" lemma="dla" ana="P-G----------P">dla</w>
+                 <w id="wp001512" lemma="przygotowanie" ana="SSGN---------P">przygotowania</w>
+                 <w id="wp001513" lemma="monografia" ana="SSGF---------P">monografii</w>
+                 <w id="wp001514" lemma="o" ana="P-L----------P">o</w>
+                 <w id="wp001515" lemma="historia" ana="SSLF---------P">historii</w>
+                 <w id="wp001516" lemma="obóz" ana="SSGI---------P">obozu</w>
+                 <w id="wp001517" lemma="oświęcimski" ana="ASGXX--------P">oświęcimskiego</w>
+                 <w id="wp001518" lemma="oraz" ana="C------------P">oraz</w>
+                 <w id="wp001519" lemma="zdrowie" ana="SSGN---------P">zdrowia</w>
+                 <w id="wp001520" lemma="i" ana="C------------P">i</w>
+                 <w id="wp001521" lemma="opieka" ana="SSGF---------P SPNF---------P SPAF---------P SPVF---------P">opieki</w>
+                 <w id="wp001522" lemma="społeczny" ana="ASGFP--------P">społecznej</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp001523" lemma="odszkodowanie" ana="SPGN---------P">odszkodowań</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp001524" lemma="który" ana="ASNFP--------P">która</w>
+                 <w id="wp001525" lemma="zająć się" ana="VS---3TODZ---P">zajmie</w>
+                 <w id="wp001526" lemma="się" ana="Z-N----------P Z-G-------N--P Z-A-------N--P">się</w>
+                 <w id="wp001527" lemma="przygotowanie" ana="SSIN---------P">przygotowaniem</w>
+                 <w id="wp001528" lemma="materiał" ana="SPGI---------P">materiałów</w>
+                 <w id="wp001529" lemma="kolega" ana="SPDP---------P">kolegom</w>
+                 <c type="przecinek">,</c>
+                 <w id="wp001530" lemma="który" ana="APNOP--------P">którzy</w>
+                 <w id="wp001531" lemma="być" ana="VP-O-IPONB--OP">byli</w>
+                 <w id="wp001532" lemma="zatrudniony" ana="APNOP--------P APNOP--------P">zatrudnieni</w>
+                 <w id="wp001533" lemma="w" ana="P-L----------P">w</w>
+                 <w id="wp001534" lemma="" ana="XXXXXXXXXXXXXP">Farben Industrie</w>
+                 <w id="wp001535" lemma="oraz" ana="C------------P">oraz</w>
+                 <w id="wp001536" lemma="inny" ana="APARP--------P">inne</w>
+                 <w id="wp001537" lemma="komisja" ana="SPAF---------P">komisje</w>
+                 <c type="kropka">.</c>
+              </s>
+              <s>
+                 <w id="wp001538" lemma="jednocześnie" ana="D---P--------P">Jednocześnie</w>
+                 <w id="wp001539" lemma="przyjąć" ana="V----B--D----P">przyjęto</w>
+                 <w id="wp001540" lemma="plan" ana="SSAI---------P">plan</w>
+                 <w id="wp001541" lemma="rozwijanie" ana="SSGN---------P">rozwijania</w>
+                 <w id="wp001542" lemma="życie" ana="SSGN---------P">życia</w>
+                 <w id="wp001543" lemma="koleżeński" ana="ASGPP--------P ASGAP--------P ASGIP--------P ASGNP--------P">koleżeńskiego</w>
+                 <w id="wp001544

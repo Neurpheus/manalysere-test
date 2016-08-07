@@ -1,0 +1,57 @@
+﻿Komórki D - jedne z komórek endokrynowych tworzących miąższ wysp Langerhansa w trzustce. Stanowią około 6% wszystkich komórek wyspowych. Mają budowę podobną do komórek A i B. Są okrągłe, z umiarkowaną gęstością, o średnicy ok. 350 nm. Nie mają ściśle określonego miejsca w wyspie trzustkowej, są rozproszone po całej powierzchni. Wytwarzają hormon - somatostatynę (ostatnio wykazano, że w komórkach D znajdują się także endorfiny).
+Kanał Haversa, kanały osteonu (ang. Haversian canal, łac. canales osteoni) - pusta przestrzeń wewnątrz osteonu, w której znajdują się naczynia krwionośne i włókna nerwowe, odżywiające kość. Kanały są otoczone około 20 blaszkami kostnymi tworzącymi osteon.
+Kanał wapniowy - kanał dla jonów wapnia obecny na błonie komórkowej. Wyróżnia się co najmniej cztery rodzaje kanałów wapniowych:
+kanał wapniowy sterowany potencjałem (VOC);
+kanał wapniowy sterowany przekaźnikiem (ROC);
+kanał wapniowy otwierany przekaźnikiem wewnętrznym (SMOC);
+kanał wapniowy otwierany białkiem G.
+Kanał wapniowy otwierany przekaźnikiem wewnętrznym (SMOC - Second Messenger Operated Calcium Channel) - rodzaj kanału wapniowego (należący do receptorów metabotropowych), który otwierany jest w odróżnieniu od ROC poprzez ligand (II przekaźnik) działający po wewnętrznej części błony komórkowej, czyli od środka komórki. Efektem otwarcia kanału SMOC od środka jest napływ jonów Ca2+ do wnętrza komórki z przestrzeni zewnątrzkomórkowej (warunkuje to gradient Ca skierowany do wnętrza komórki - stężenie jonów wapniowych w płynie zewnątrzkomórkowym jest większe niż w płynie wewnątrzkomórkowym). Ligandy otwierające ten kanał to:
+IP3 a właściwie IP4 powstały po fosforylacji IP3
+PA (ang. phosphatidic acid - kwas fosfatydowy - powstały po fosforylacji DAG - diacyloglicerolu)
+Kinetocylium - odmiana rzęsek występująca na powierzchni komórek zmysłowych przedsionka ucha.
+Kinetocylium - odmiana rzęsek występująca na powierzchni komórek zmysłowych przedsionka ucha.
+Komórka Browicza-Kupffera[edytuj]
+
+Komórka Browicza-Kupffera (komórka Kupffera) - osiadły makrofag występujący między komórkami śródbłonka, w ścianie sinusoid w hepatocytach. Jest częścią układu siateczkowo-śródbłonkowego. Komórki Browicza-Kupffera stanowią ok. 15-20 % wszystkich komórek wątroby.
+
+Po raz pierwszy zostały zaobserwowane w 1876 roku przez Karla Wilhelma von Kupffera. Naukowiec nazwał je sternzellen (komórki gwiaździste albo gwiazdowate). Przypuszczał (błędnie), że są integralną częścią śródbłonka naczyń krwionośnych wątroby. Dopiero kilkanaście lat później, w 1898 roku, Tadeusz Browicz prawidłowo zidentyfikował je jako makrofagi.
+
+Budowa [edytuj]
+
+Ma nieregularną powierzchnię, liczne lizosomy i heterofagosomy.
+Nie tworzy połączeń z komórkami śródbłonka.
+Przytwierdza się do powierzchni zatoki długimi wypustkami, przeważnie o charakterze spłaszczonych lamelipodiów. Przez otwory w śródbłonku może penetrować do przestrzeni okołozatokowej.
+
+Funkcje [edytuj]
+zapobiega krzepnięciu krwi, poprzez fagocytozę włóknika
+bierze udział w mechanizmach odpornościowych organizmu, poprzez fagocytozę bakterii
+fagocytuje komórki nowotworowe, kompleksy przeciwciało-antygen, zużyte erytrocyty lub ich fragmenty (ten proces dokonuje się głównie w śledzionie, ale po jej chirurgicznym usunięciu funkcję tę przejmuje wątroba)
+Komórki Langerhansa - niedojrzałe komórki dendrytyczne zawierające duże ziarnistości zwane ziarnistościami Birbecka. Przy infekcjach w obrębie skóry, lokalne komórki Langerhansa pochłaniają i przetwarzają antygeny mikroorganizmów, a następnie wędrują do warstw korowych węzłów chłonnych, aby dojrzeć do komórek prezentujących antygen.
+Komórka mioepitelialna, komórka koszyczkowa, nabłonkowo-mięśniowa - to komórka tworząca długie wypustki plazmatyczne zawierające kurczliwe włókienka białkowe, w ektodermie włókienka ułożone są wzdłuż osi ciała, a w endodermie okrężnie. Są to komórki o kształcie wrzecionowatym lub gwiaździstym, otaczające na kształt koszyczka odcinek wydzielniczy, doprowadzając w ten sposób do jego opróżnienia.
+
+Komórki mioepitelialne mogą być uważane za pierwotne, ponieważ występują np. w ektodermie jamochłonów. Specjalne komórki kurczliwe tworzą wyspecjalizowane tkanki - mięśnie, które poruszają całe narządy i organizmy. Zdolność tą zawdzięczają obecności dwóch homologicznych, konserwatywnych białek o budowie fibrylarnej - aktyny i miozyny.
+Komórka prozenchymatyczna – komórka o nierównomiernym, wydłużonym kształcie np. włókna sklerynchematyczne.
+Komórki ß należą do komórek APUD, współtworzą (około 60%) wyspy trzustkowe (Langerhansa), znajdują się w ich centrum, sa odpowiedzialne za wydzielanie insuliny i amyliny.
+Komórki G – komórki endokrynowe, zlokalizowane głównie w błonie śluzowej żołądka (rzadko w trzustce i pozostałej części przewodu pokarmowego). Wydzielają hormon - gastrynę. Są unerwiane przez nerw błędny (pobudza wydzielanie gastryny poprzez uwalnianie GRP).
+Komórki kubkowe - komórki wchodzące m.in. w skład ludzkiego nabłonka dróg oddechowych (drugie co do częstości, obok komórek z brzeżkiem migawkowym). Są kształtu kielichowatego z przyszczytową, poszerzoną częścią zawierającą duże ilości ziaren wydzielniczych. Biorą udział w produkcji i wydzielaniu śluzu.
+Krew (łac. sanguis) – rodzaj tkanki łącznej krążącej w naczyniach krwionośnych (układ krwionośny zamknięty) lub w jamie ciała (układ krwionośny otwarty). W szerokiej definicji obejmuje krew obwodową i tkankę krwiotwórczą, a w wąskiej tylko tę pierwszą. Jako jedyna (wraz z limfą) występuje w stanie płynnym. Odpowiada za transport elementów morfotycznych krwi oraz różnych białek.
+
+Ilość krwi w organizmie przeciętnego człowieka wynosi 5-5,5 l (70 ml/kg) i jest to w przybliżeniu 1/13 do 1/12 wagi ciała. Dla dzieci jest to ok. 1/10 do 1/9 wagi ciała. Część krwi mieści się w zbiornikach krwi i jest włączana do krążenia tylko w razie konieczności.
+
+Kultura tkankowa (ang. tissue culture) - tkanka hodowana na podłożu. Tkanki lub luźne komórki z tkanek rozwijają sie poza organizmem. Można tak hodować również komórki ludzkie. Jedna z laboratoryjnych linii (HeLa) pochodzi od kobiety która zmarła 50 lat temu, a jej komórki ciągle żyją.
+Kępka Peyera[edytuj]
+
+Kępki Peyera – stanowią cześć układu immunologicznego, stanowią jego część związaną z błoną śluzową przewodu pokarmowego (GALT). Są to skupiska grudek limfatycznych skupionych znajdujących się w błonie śluzowej i podśluzowej jelita cienkiego (głównie w jelicie krętym).
+
+Kępki Peyera zawierają grudki limfatyczne w których przeważają limfocyty B, w obszarach między grudkami występują przede wszystkim limfocyty T, a pokryte są one zewnętrzną warstwą komórek nabłonkowych zawierających wyspecjalizowane komórki M (ang. M cells lub Microfold cells. Komórki M pobierają różne antygeny ze światła jelita (np. antygeny bakteryjne) i przekazują je leżącym głębiej komórkom: makrofagom i komórkom dendrytycznym, które prezentują antygeny limfocytom T.
+
+Nazwa pochodzi od szwajcarskiego lekarza Johanna Conrada Peyera, który po raz pierwszy je opisał.
+
+Funkcja kępek Peyera [edytuj]
+
+Kępki Peyera spełniają rolę w:
+rozpoznawaniu i wytwarzaniu odpowiedzi immunologicznej na antygeny chorobotwórczych mikroorganizmów, które mogą pojawić się w tej części przewodu pokarmowego
+powstawaniu lokalnej tolerancji na antygeny pokarmów i mikroflory bakteryjnej
+
+
+

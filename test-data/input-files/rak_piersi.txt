@@ -1,0 +1,22 @@
+﻿Nowa terapia dziedzicznego raka piersi
+
+
+	Związek chemiczny może wybiórczo niszczyć komórki raka piersi z dziedziczną mutacją genetyczną - tę nową metodę terapii proponują naukowcy szwedzcy i brytyjscy na łamach najnowszego tygodnika "Nature".
+
+Dziedziczny rak piersi stanowi zgodnie z szacunkami 5 proc. wszystkich przypadków tego nowotworu. Jest najczęściej związany z mutacjami w genach BRCA1 i BRCA2, które odgrywają ważną rolę w procesach naprawy DNA i normalnie powstrzymują procesy nowotworowe. U kobiet, które dziedziczą te mutacje ryzyko raka piersi dochodzi nawet do 80 proc.
+
+Białka zapisane w genach BRCA stanowią alternatywny system naprawy uszkodzeń w DNA. Dochodzą do głosu dopiero wówczas, gdy zawodzi podstawowy system naprawczy, wykorzystujący enzym PARP.
+
+Teraz naukowcy ze Szwecji i Wielkiej Brytanii zaobserwowali, że blokując właśnie ten enzym można niszczyć komórki raka piersi z mutacjami w genach BRCA.
+
+Wykazały to doświadczenia na hodowanych w laboratorium komórkach myszy, chomika oraz ludzkich z mutacjami w BRCA1 i BRCA2. Zablokowanie enzymu PPAR zrodziło zapotrzebowanie komórek na alternatywny system naprawy. Jednak z powodu mutacji w genach BRCA wykorzystanie go było niemożliwe.
+
+Dlatego wady w DNA gromadziły się, co powodowało zahamowanie podziałów komórek i ostatecznie ich śmierć.
+
+Podobne wyniki uzyskano w badaniach na myszach, u których rozwinęły się guzy z mutacjami w genie BRCA2. Terapia z użyciem inhibitora PARP hamowała wzrost nowotworów.
+
+Zaletą nowej metody jest to, że niszczy tylko komórki nowotworowe pozbawione aktywnych genów BRCA, zaznaczają badacze. Związek blokujący PARP nie szkodzi innym, zdrowym komórkom organizmu, które mogą wykorzystywać system BRCA do naprawy zmian genetycznych. Dzięki temu nowa terapia nie będzie dawać niepożądanych skutków ubocznych, jakie towarzyszą np. chemioterapii.
+
+Badacze mają nadzieję, że w ciągu najbliższych pięciu lat ich praca zaowocuje nową, rewolucyjną terapią dziedzicznego raka piersi, jak i innych nowotworów związanych z mutacjami w genach BRCA (np. raka jajnika). Liczą ponadto, że nowa metoda znajdzie zastosowanie nie tylko w leczeniu, ale też w profilaktyce tych nowotworów.
+
+"Normalne komórki nie potrzebują PARP do przeżycia. Dlatego możemy spokojnie wykorzystywać inhibitory tego enzymu po to, by niszczyć komórki bez sprawnych genów BRCA, jeszcze zanim zmienią się w nowotworowe" - komentuje prowadzący badania prof. Thomas Helleday z Uniwersytetu w Sztokholmie.

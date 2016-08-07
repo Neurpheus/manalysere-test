@@ -1,0 +1,6 @@
+﻿Immunohistochemia - jest to metoda wykrywania rozmaitych substancji antygenowych w skrawkach mikroskopowych, stosowana w histopatologii i histologii. Polega na zastosowaniu przeciwciała skierowanego przeciwko poszukiwanym składnikom preparatu a następnie systemu detekcji, tworzącego barwną, nierozpuszczalną substancję, widoczną w mikroskopie. Do związków chemicznych stosowanych do lokalizacji stosowanych w tej metodzie przeciwciał należą:
+fluorochromy (fluoresceina, rodamina)
+metale (złoto koloidalne, ferrytyna zawierająca żelazo)
+enzymy (peroksydaza, fosfataza zasadowa)
+
+Metoda ta znajduje zastosowanie w diagnostyce różnicowej chorób, szczególnie nowotworów złośliwych.

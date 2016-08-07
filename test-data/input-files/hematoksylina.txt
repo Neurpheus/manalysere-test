@@ -1,0 +1,13 @@
+﻿Hematoksylina (też Natural Black 1 lub C.I. 75290) - niebieski barwnik o charakterze zasadowych służący do wybarwiania kwasowych (bazofilnych [porównaj bazofil], czyli lubiących zasady, od powinowactwa do zasadowych grup tego barwnika) cząstek struktur komórek, np. jądra komórkowego. Uzyskiwany z drewna Haematoxylum campechianum. Utleniona przekształca się w hemateinę o głębokim niebiesko-purpurowym kolorze. W takiej formie używa się jej do barwienia cytologicznego.
+
+W czasie barwienia grupy zasadowe hematoksyliny wytwarzają wiązania estrowe z grupami kwasowymi cząsteczek struktur tkankowych, wybarwiając je.
+
+Jest jednym z ważniejszych barwników histochemicznych. Stosuje się ją w postaci ceglastego proszku będącego zredukowaną formę hematoksyliny. Przed użyciem zostaje ona utleniona w reakcji np. z chloranem(V) potasu KClO3 do hemateiny i dopiero w tej formie barwi tkanki wysycone solami żelazowymi lub glinowymi.
+
+Hematoksylina w pH zasadowym barwi struktury komórkowe na kolor niebieski, natomiast w pH kwaśnym - na czerwono. Struktury barwiące się tym barwnikiem nazywa się bazofilowymi (porównaj bazofil), czyli lubiące zasady, od powinowactwa do zasadowych grup tego barwnika.
+
+Zazwyczaj stosowana jest w połączeniu z eozyną, barwnikiem o charakterze kwasowym, reagującym z grupami zasadowymi cząsteczek struktur tkankowych (tak zwane struktury eozynofilne albo acidofilne, czyli lubiące kwas/eozynę), czyli przeciwnie do hematoksyliny. Jest to barwienie trwałe, w przeciwieństwie do tymczasowego wybarwiania na przykład płynem Lugola.
+
+Używana także w mieszaninie z kwasem fosfowolframowym - tak zwany PTAH.
+
+W latach 70. z powodu niedostatku drewna z lasów deszczowych, w tym Haematoxylum campechianum, pojawiły się znaczne niedostatki hematoksyliny na rynku, które szybko wywindowały jej cenę. Spowodowało to znaczny wzrost kosztów diagnostyki laboratoryjnej i było impulsem do poszukiwania alternatywnych barwników cytologicznych i histologicznych. W ten sposób pojawił się cały szereg nowych barwników o zbliżonych właściwościach jak: Celestine blue B (CI 51050), galocyjanina (CI 51030), galeina (CI 45445) i inne. Wszystkie one wymagają wcześniejszego wysycenia tkanki solami żelaza.
